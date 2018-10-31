@@ -1,0 +1,4524 @@
+                            /*----------------
+                                Adaptive
+                            ----------------*/
+
+@media (max-width: 1400px){
+         /*------- Home--------*/
+    .big-image-title {
+        font-size: 45px;
+        line-height: 55px;}
+    .footer-logo {padding: 0 90px;}
+    .footer {padding: 40px 15px;}
+    .about-school-slider .arrow {bottom: 10px;}
+    .form-block-wrap {padding-left: 30px;}
+    .menu-footer.menu-right {padding-right: 15px;}
+    .about, .study{
+        padding-left: 30px;
+        padding-right: 30px;}
+         /*------- About--------*/
+    .about-page img{
+        width: 100%;
+        max-width: 870px;}
+    .insta-inner img{
+        width: 100%;
+        max-width: 270px;}
+	.schedule-page-title h1 {
+	    margin-top: 30px;}
+
+}
+@media only screen and (min-width: 1201px) and (max-width: 1360px){
+    .schedule-courses-item-info {
+        position: absolute;
+        width: 319px;
+        display: none;
+        z-index: 10;
+        bottom: -64px;
+        left: 60%;
+        transform: translateX(-50%);}
+
+
+}
+@media (max-width: 1200px){
+    
+    .all-courses-menu {
+        width: 740px;
+    }
+    
+         /*------- Home--------*/
+    .header .logo {
+        padding: 25px 18px 15px;}
+    .menu ul li a {
+        font-size: 12px;
+        padding-left: 2px;
+        padding-right: 2px;}
+    .all-courses {
+        margin-left: -10px;}
+    .top-menu ul li a {
+        padding-left: 12px;
+        padding-right: 12px;}
+    .big-image-title {
+        font-size: 41px;
+        line-height: 44px;}
+    .big-image-inner {
+        padding-left: 287px;}
+    .header .phones span {font-size: 14px;}
+    .about-title,
+    .about-school-text h2,
+    h2,
+    .practice-slide h2,
+    .courses h2,
+    .teachers h2,
+    .reviews h2,
+    .video-block h2,
+    .study h2,
+    .advantages h2 {
+        font-size: 37px; line-height: 48px;}
+    .form-block h2{font-size: 31px; line-height: 40px;}
+    .menu-footer li a {
+        padding-right: 4px;}
+    .menu-footer.menu-left{
+        text-align: center;
+        width: 40%;}
+    .footer-logo {
+        width: 20%;
+        padding: 0 55px;}
+    .menu-footer.menu-right {
+        padding-right: 15px;
+        text-align: center;
+        width: 40%;}
+    .form-block-form {
+        padding-left: 50px;
+        padding-right: 50px;}
+    .reviews-slider-wrap{margin-bottom: 10px;}
+    .reviews-slider-wrap .slick-initialized .slick-slide {
+        padding-bottom: 21px;}
+    .about-school-text {
+        padding: 60px;}
+    #tabs ul.link-list {padding-left: 18px;}
+    #tabs ul.link-list li a {
+        height: auto;
+        line-height: 35px;}
+    #tabs ul.link-list li {
+        padding-left: 15px;
+        padding-right: 15px;
+        height: auto;}
+    .video-slider .arrow.prev-arrow {
+        left: 37%;}
+    .video-slider .arrow.next-arrow {
+        right: 37%;}
+    .practice-slider-wrap {
+        padding: 20px 0;}
+    .practice-slider {
+        padding-left: 71px;}
+    .practice-slider .slick-dots {
+        padding-left: 36px;}
+    .about-school-text {
+        padding: 60px;}
+    .professor-img img{
+        max-width: 350px;}
+    .professor-desc {
+        width: 350px;
+        height: auto;
+        padding: 10px 9px;}
+    .study-text li {
+        margin-bottom: 15px;}
+    .video{margin-right: -20px;}
+    .teachers-slide-inner {
+        padding: 34px 70px 80px;}
+
+         /*------- About--------*/
+    .sidebar-menu {
+        padding: 15px 12px;}
+    .about-page .content {
+        width: 95%;}
+    .about-page {
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        overflow: hidden;
+        box-sizing: border-box;}
+
+         /*------- Teachers page--------*/
+    .teachers-page .teachers-slide-bg img {
+        width: 275px;}
+    .teachers-page .teachers-slide-inner {
+        padding: 34px 2px 80px;}
+    .teachers-page .teachers-photo {
+        margin-bottom: 4px;}
+    .teachers-page h1 {
+        margin-bottom: 38px;
+        font-size: 38px;
+        letter-spacing: 1.5px;
+        line-height: 1;}
+
+        /*------- Video--------*/
+
+ 
+        /*------- Reviews--------*/
+    .reviews-name {
+        margin-bottom: 20px;}
+
+
+         /*------- Teacher alogne page--------*/
+    .teachers-page .teacher-courses {
+        padding-left: 7px;
+        padding-right: 2px;
+        width: 100%;
+        box-sizing: border-box;
+        overflow: hidden;}
+
+         /*------- Partners--------*/
+
+
+         /*------- Медиа-центр --------*/
+    .photos-page .content {
+        padding-left: 7px;
+        padding-right: 2px;}
+
+         /*------- Photos-inner --------*/
+    .new-page .content img{cursor: pointer;}
+    .photo-nav-slide img{max-width: 99%;}
+    .recent-news {
+        padding: 30px 5px 0;}
+
+        /*------- New --------*/
+
+         /*------- News --------*/
+    .news-page .content h1 { margin-top: 25px;}
+    .news-page .news .content {
+        padding-left: 8px;
+        padding-right: 2px;}
+
+         /*------- Library --------*/
+    .lib-title {padding: 15px 15px 15px;}
+
+
+         /*------- Library item--------*/
+    .library-item h2.center-line{margin-top: 20px;}
+    .library-page .lib-btns {margin-top: 60px;}
+
+         /*------- Courses-page--------*/
+    .courses-page-title h1 {
+        margin-top: 43px;
+        font-size: 38px;}
+    .courses-page .courses-img img{
+        display: block;
+        max-width: 98%;
+        margin: 0 auto;}
+    .courses-page .course-info {
+        padding-left: 20px;
+        box-sizing: border-box;
+        overflow: hidden;}
+    .course-about {margin-bottom: 40px;}
+    .courses-page .course-text {
+        padding-top: 40px;
+        padding-bottom: 55px;}
+    .courses-page .teachers-slide-inner {padding: 11px 18px 80px;}
+    .courses-page .teachers-slide-bg img {
+        max-width: none;
+        width: 288px;
+        left: 50%;
+        transform: translateX(-50%);}
+    .courses-page .course-price-items{
+        padding-left: 5px;
+        padding-right: 5px;}
+    .courses-page .photo-last {
+        padding-bottom: 60px;
+        padding-left: 5px;
+        padding-right: 3px;}
+
+         /*------- Courses-page all--------*/
+    .courses-page .courses h2{    margin-top: -20px;}
+    .courses-page .courses .courses-slider-wrap {padding-top: 40px;}
+	.courses-page .courses {padding: 0 5px 0 7px;}
+	.courses-page .seo-block h2 {font-size: 36px; padding-bottom: 5px;}
+	.courses-page .seo-img img {
+    	max-width: 650px;
+    	width: auto;}
+	.courses-page.seo-text p {margin-bottom: 20px;}
+
+         /*------- Registr page--------*/
+	.registr-page .content h1 {margin-top: 25px;}
+	.registr-page .registr-block {padding-top: 45px;}
+	.registr-page .registr-block .col-md-9 {width: 100%;}
+	.registr-page .filter-block {
+    	padding-left: 15px;
+    	padding-right: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 15px;
+	    margin-left: 15px;
+	    height: 28px;
+	    line-height: 26px;
+	    padding-right: 50px;
+	    padding-left: 35px;
+	    width: auto;}
+	.registr-page .content {padding-bottom: 15px;}
+
+         /*------- Schedule page--------*/
+	.schedule-page-title h1 {margin-top: 30px;}
+	.schedule-page .schedule{padding-left: 6px;}
+	.schedule-page .cell {padding: 6px 5px; height: 275px;}
+	.schedule-courses-item {margin-bottom: 7px;}
+	.schedule-page .day-of-week{height: 60px;}
+	.schedule-courses-item-info {
+	    position: absolute;
+	    width: 305px;
+	    display: none;
+	    z-index: 10;
+	    bottom: 0;
+	    top: -56%;
+	    left: 100%;
+	    transform: translateX(-50%);}
+    .contact-map #maps {
+        margin-top: 15px;}
+    .contact-map #maps > ul {
+        text-align: center;}
+
+    .header .phones span a {
+        font-size: 12px;}
+    .contact-page h3{text-align: center;}
+    .color-item { margin-right: 10px;}
+    .courses-link {
+        width: 108px;
+        height: 30px;}
+    .schedule-page .filter-result .col-md-10{width: 97%;}
+    .schedule-page .courses-link {
+        height: 30px;
+        float: none;
+        text-align: center;
+        line-height: 27px;
+        display: block;
+        margin: 11px auto 0;}
+    .schedule-page .color-items {
+        font-size: 0;
+        padding-top: 6px;
+        float: none;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;}
+    .schedule-page .courses-filter select {
+        width: 200px;}
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;}
+    .sidebar .subscribe input[type=submit] {
+        padding: 9px 9px;
+        font-size: 15px;}
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px){
+    .schedule-table.show {
+        display: block !important;
+        max-width: 85%;
+        text-align: center;
+        margin: 20px auto;}
+    .schedule {
+        width: 101%;
+        overflow-x: scroll;}
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 991px){
+         /*------- Home--------*/
+    .logo img{max-width: 110px;}
+    .header .top-line{height: auto;}
+    .all-courses {margin-left: 0;}
+    .all-courses span{font-size: 0;}
+    .menu ul li a {
+        font-size: 12.5px;
+        padding-left: 5px;}
+    .big-image-inner {
+        padding-left: 7%;}
+    .big-image-text {
+        font-size: 18px;
+        margin-bottom: 30px;}
+    .big-image-title {
+        font-size: 38px;
+        line-height: 41px;}
+    .top-menu ul li a {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 13px;}
+    .big-image-button .btn {
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;}
+    .big-image-button .btn a {
+        line-height: 40px;
+        font-size: 15px;
+        letter-spacing: 0.2px;}
+    .about {
+        padding-top: 55px;
+        padding-bottom: 85px;}
+    .advantages {
+        padding-bottom: 80px;
+        padding-top: 45px;}
+    .advantages-item { margin-bottom: 30px;}
+    .study-row {
+        display: flex;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;}
+    .study-row-1 {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;}
+    .about-title,
+    .about-school-text h2,
+    h2, .practice-slide h2,
+    .courses h2,
+    .teachers h2,
+    .reviews h2, 
+    .seo-block h2,
+    h2.center-line,
+    .video-block h2,
+    .study h2,
+    .advantages h2{
+        text-align: center;}
+    .professor-img img {
+        max-width: 300px;
+        margin: 0 auto;}
+    .professor-desc {
+        width: 316px;
+        margin: -84px auto 30px;}
+    .professor-desc.left {
+        float: none;
+        border-radius: 0px 80px 80px 80px;}
+    .professor-img,
+    .professor{width: 100%;}
+    .about-school-slide img{
+        max-width: 100%;
+        margin: 0 auto;}
+    .practice-slider .slick-dots {
+        padding-left: 0;
+        left: calc(50% - 30px);}
+    .leading img{margin: 0 auto;}
+    .practice-slider .arrow.prev-arrow {
+        left: 37%;}
+    .practice-slider .arrow.next-arrow {
+        right: 37%;
+        left: auto;}
+    #tabs ul.link-list {
+        padding-left: 10px;
+        display: flex;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        align-items: center -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;}
+    .courses-slider .col-md-4{
+        padding-right: 6px;
+        padding-left: 6px;}
+    .courses-slide {
+        max-width: 355px;}
+    .courses-slider.slick-dotted.slick-slider {
+        margin-bottom: 60px;
+        margin-left: 16px;
+        margin-right: 10px;}
+    .courses-slider-wrap {padding-top: 35px;}
+    .teachers {
+        padding-top: 50px;
+        padding-bottom: 60px;}
+    .video-block .slick-slide img {
+        display: block;
+        margin: 0 auto;}
+    .form-block-form {
+        padding-left: 100px;
+        padding-right: 100px;}
+    .footer-logo {
+        width: 12%;
+        padding: 0;}
+    .menu-footer.menu-right {
+        padding-right: 15px;
+        text-align: center;
+        width: 43%;}
+    .menu-footer.menu-left {
+        text-align: center;
+        width: 43%;}
+    .menu-footer li a {
+        padding-right: 4px;
+        padding-top: 0;
+        padding-bottom: 0;
+        line-height: 40px;}
+    .practice-slider-wrap {padding: 40px 0;}
+    .leading {margin-left: 0;}
+
+         /*------- About--------*/
+    .about-page .group img{    max-width: 270px;}
+    .about-page .sidebar{
+             padding-top: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+            -ms-flex-align: start;
+                align-items: flex-start;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        width: 100%;
+            margin: 0 auto;}
+    .about-page .content {
+        width: 95%;
+        margin: 0 auto;}
+    .subscribe {padding: 0;}
+
+    .about-page .insta-inner img {
+        margin-bottom: 15px;
+        max-width: 450px;}
+
+         /*------- Teachers page--------*/
+    .teachers-slider-page {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;}
+    .box-teacher{flex-basis: 40%;}
+    .box-teacher{
+        -ms-flex-preferred-size: 32%;
+        flex-basis: 32%;
+        max-width: 33%;
+        min-width: auto; }
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 40px 80px;}
+    .teachers-page .col-md-offet-3-24{margin-left: 0;}
+    .teachers-page .col-sm-offet-3-24 {
+        margin-left: 1.2%;}
+    .teachers-page .clearfix{display: none;}
+
+        /*------- Video--------*/
+    .media-cats {
+        float: none;
+        margin-bottom: 30px;
+        text-align: center;}
+    .news-count {
+        margin: 0 auto;
+        float: none;
+        font-size: 0;
+        margin-bottom: 30px;}
+    .videos-page .content {
+        padding-left: 5px;}
+    .news-count-bottom{
+        float: right;}
+    .videos-page .content {
+        padding-left: 10px;
+        padding-right: 3px;}
+
+        /*------- Review--------*/
+    .review-page{padding: 0 10px;}
+    .review-inner-image img{width: 98%;}
+    .review-inner-meta{
+        padding-left: 15px;
+        padding-right: 25px;}
+    .review-inner-text{
+        padding-left: 15px;
+        padding-right: 15px;}
+    .reviews-slide {
+        margin-bottom: 10px;}
+
+        /*------- Reviews--------*/
+
+         /*------- Teacher alogne page--------*/
+    .teachers-page .teacher-photo{
+            display: block;
+            max-width: 260px;
+            margin: 0 auto;}
+    .teachers-page .teacher-btn-call{margin-bottom: 15px;}
+    .teachers-page .teacher-text {padding-bottom: 0;}
+    .teachers-page .teacher-text-dop-inner{
+        width: 90%;
+        margin: 0 auto;}
+    .teacher-page .clearfix{display: block;}
+
+
+         /*------- Partners--------*/
+    .partners-list{
+        padding-left: 15px;
+        padding-right: 15px;}
+    .course-video-block .video img {
+        max-width: 39%;
+        margin: 0 auto;}
+    .course-video-block .video {
+        padding-left: 0;}
+    .course-video-block .video {
+        margin-right: 0;}
+    .video-block {
+        background-image: url(../images/video-bg.png);
+        background-size: 88%;}
+
+
+        /*------- Медиа-центр --------*/
+    .photos-items .photos-title {
+        margin-bottom: 20px;}
+
+         /*------- Photos-inner --------*/
+    .content{
+        padding-left: 15px;
+        padding-bottom: 30px;
+        padding-right: 15px;}
+    .new-page .photos-item {
+        margin: 0 auto;
+        margin-bottom: 30px;
+        width: 80%;}
+
+         /*------- New --------*/
+    .new-page .recent-news {padding: 30px 4px 0 7px;}
+
+         /*------- News --------*/
+    .news-page .news .content {
+        padding-left: 8px;
+        padding-right: 2px;}
+
+         /*------- Library --------*/
+    .library-sidebar { padding: 0 15px;}
+     .news-page .news .col-md-9{text-align: center;}
+    .news-page .news .col-md-9 .pagination{ float: none; margin-bottom: 15px;}
+    .news-page .news .col-md-9 .news-count-bottom{ float: none;}
+
+         /*------- Library item--------*/
+    .library-page .content .col-md-8 h1 {margin-top: 0;}
+    .lib-meta h1 {
+        font-size: 28px;
+        margin-bottom: 18px;}
+    .library-page .lib-price {font-size: 35px;}
+    .library-page .lib-btns { margin-top: 25px;}
+    .library-page .view-btn, 
+    .library-page .order-btn {
+        margin-bottom: 15px;
+        margin-left: 0;
+        line-height: 1;
+        padding: 10px 20px;}
+    .library-page .lib-meta { margin-bottom: 20px;}
+
+         /*------- Courses-page--------*/
+    .courses-page .course-nabor {font-size: 34px;}
+    .courses-page .course-nabor span{font-size: 70px;}
+    .courses-page .course-info {padding-left: 10px;}
+    .courses-page .course-time { margin-left: 20px; margin-right: 25px;}
+    .courses-page .course-text {
+        padding-top: 30px;
+        padding-bottom: 45px;}
+    .courses-page .metavionika{}
+    .courses-page .study-steps {
+        padding-top: 70px;
+        padding-bottom: 50px;}
+    .courses-page .col-md-offet-3-24 { margin-left: 0;}
+    .courses-page .teachers-slide-inner { padding: 11px 8px 80px;}
+    .courses-page .teachers-slide-bg img {
+        max-width: none;
+        width: 277px;
+        left: 50%;
+        transform: translateX(-50%);}
+    .courses-page .course-teachers {
+        padding-top: 50px;
+        padding-bottom: 50px;}
+    .courses-page .course-price-block {height: 107px;}
+    .course-price-current {
+        font-size: 48px;
+        line-height: 62px;
+        text-align: center;}
+    .courses-page .course-price-order .btn {
+        width: auto;
+        height: auto;
+        line-height: 21px;
+        padding: 10px 25px;}
+    .courses-page .course-price-item {padding: 30px 15px 35px;}
+    .courses-page .courses-slider-wrap {
+        padding-top: 35px;
+        padding-left: 6px;
+        padding-right: 2px;}
+    .courses-page .photo-last-item {margin-bottom: 10px;}
+    .courses-page .reviews {
+        padding-top: 55px;
+        padding-bottom: 60px;}
+    .courses-page .photo-last {padding-bottom: 40px;}
+    .courses-page .teacher-courses {
+        padding-top: 60px;
+        padding-bottom: 40px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list {
+	    padding-left: 10px;
+	    text-align: center;}
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    height: auto;
+	    margin: 0;}
+	.courses-page .courses #tabs ul.link-list li a {
+	    height: auto;
+	    line-height: 1;
+	    margin: 0;
+	    padding: 10px 0;}
+	.courses-page .courses h2 {margin-bottom: 30px;}
+	.courses-page .courses .courses-slider-wrap {padding-top: 30px;}
+	.courses-page .courses {padding: 0 5px 0 3px;}
+	.courses-page .seo-block .col-md-7{text-align: center;}
+	.courses-page .seo-img img {
+	    max-width: 695px;
+	    width: auto;
+	    margin: 0 auto;}
+	.courses-page .seo-block {padding-top: 45px;}
+
+
+
+         /*------- Registr page--------*/
+	.registr-page .registr-block { padding-top: 35px;}
+	.registr-page .registr-block .col-md-9 { width: auto;}
+	.registr-page .registr-block {
+	    padding-left: 10px;
+	    padding-right: 10px;}
+	.registr-page .registr-spec {width: 95%;}
+	.registr-page .registr-spec-row {
+	    float: right;
+	    width: calc(100% - 90px);
+	    line-height: 35px;}
+	.registr-page .registr-block .news-count-bottom {
+	    float: right;
+	    margin-right: 40px;}
+	.registr-page .registr-block { padding-left: 0; padding-right: 10px;}
+	.registr-page .filter-block{
+		padding-left: 0;
+		padding-right: 15px;
+		display: -webkit-box;
+			display: -ms-flexbox;
+				display: flex;
+		-webkit-box-pack: justify;
+			-ms-flex-pack: justify;
+		justify-content: space-between;
+			-webkit-box-align: center;
+		-ms-flex-align: center;
+			align-items: center;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    width: auto;}
+	.registr-page .filter-block span {
+	    font-size: 14px;
+	    letter-spacing: 0.15px;
+	    margin-right: 2px;}
+	.registr-page .filter-block .filter-item i {
+	    display: inline-block;
+	    position: absolute;
+	    top: 10px;
+	    right: 10px;}
+	.registr-page h2.center-line{font-size: 35px;}
+	.registr-page .content h1 {font-size: 37px;}
+
+
+         /*------- Schedule page--------*/
+/*	.schedule-page .container{width: 100%;}*/
+	.schedule-courses-item {
+	    margin-bottom: 7px;
+	    word-wrap: break-word;
+	    font-size: 11px;
+	    line-height: 16px;}
+	.schedule-page .cell {
+	    padding: 5px 2px;
+	    height: 255px;}
+	.schedule-page .day-of-week {height: 60px;}
+	.schedule-page .courses-title {
+	    font-size: 19px;
+	    line-height: 21px;
+	    margin-bottom: 10px;}
+	.schedule-page .courses-slide {padding: 14px 15px 17px;}
+	.schedule-page .courses-text {
+    	font-size: 15px;
+    	line-height: 20px;
+    	margin-bottom: 13px;}
+	.schedule-page .courses-teachers {margin-bottom: 13px; text-align: left;}
+	.schedule-courses-item-info {
+	    width: 290px;
+	    margin: 0 auto;
+	    bottom: 0;
+	    top: 65px;
+	    left: 15%;}
+/*	.schedule-courses-item,
+	.schedule-page .cell {
+	    position: static;}
+	.schedule-table.show {position: relative;}*/
+    .day-of-week {font-size: 14px;}
+
+    .all-courses > a{
+        pointer-events: none;}
+
+    .contact-info, .contact-map {
+        padding: 10px 30px;}
+    .contact-map #maps > ul {
+        text-align: center;
+        margin-left: 0;
+        padding-left: 0;}
+    .row-tr-place img {
+        max-height: 340px;
+        height: 100%;
+        width: 100%;
+        max-width: 100%;}
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;
+        width: 32%;}
+    .sidebar-menu {
+        padding: 15px 12px;
+        width: 30%;}
+     .big-image-slider .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        width: 100%;
+        padding: 0;}
+    .schedule-page .filter-result .col-md-10 {
+        width: 100%;}
+    .schedule-page .filter-result h2 {
+        line-height: 30px;
+        margin-bottom: 20px;
+        font-size: 29px;}
+    .schedule-page .filter-result .go-back{margin-bottom: 20px;}
+
+
+
+
+
+
+
+}
+@media (max-width: 880px){
+    .schedule-page .container {width: 635px;}
+    .schedule-courses-item-info {
+        width: 263px;
+        margin: 0 auto;
+        bottom: 0;
+        top: -99%;
+        left: 83%;}
+    .day-of-week {font-size: 12px;}
+
+
+
+}
+@media only screen and (min-width: 768px) and (max-width:  830px){
+    .schedule-courses-item-info {
+        width: 248px;
+        height: 100vh;
+        margin: 0 auto;
+        bottom: 0;
+        top: 9%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: 52%;
+        /* transform: none; */
+        transform: translateX(-50%);
+    }
+    .schedule-table.show {
+        display: block !important;
+        width: 560px;
+        margin: 30px auto;
+    }
+
+
+
+
+}
+
+
+@media (max-width: 767px){
+         /*------- Home--------*/
+    .top-menu ul {
+        padding-left: 7px;}
+    .top-menu ul li a {
+        padding-left: 3px;
+        padding-right: 3px;
+        font-size: 12.8px;}
+    .login {
+        padding-left: 10px;}
+    .social .social-item {
+        margin-right: 8px;}
+    .login a {
+        font-size: 13px;
+        line-height: 34px;}
+    .menu ul li a {
+        font-size: 10.7px;
+        padding-left: 1px;}
+    .big-image-title {
+        font-size: 32px;
+        line-height: 34px;
+        margin-bottom: 12px;
+    }
+    .big-image-text {
+        font-size: 18px;
+        margin-bottom: 20px;}
+    .big-image-button .btn {
+        height: auto;
+        padding: 10px 25px;}
+    .big-image-button .btn a {
+        line-height: 1;
+        font-size: 14px;}
+    .about-text {
+        padding-right: 0;}
+    .about-inner {
+        text-align: center;}
+    .advantages h2 {
+        margin-bottom: 40px;}
+    .about-title,
+    .about-school-text h2,
+    h2, .practice-slide h2,
+    .courses h2,
+    .teachers h2,
+    .seo-block h2,
+    .reviews h2, 
+    .video-block h2,
+    .study h2,
+    .advantages h2{
+        font-size: 35px;
+        line-height: 43px;}
+    .about {
+        padding-bottom: 60px;}
+    .study-row {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;}
+    .form-block-wrap {
+        padding-left: 0;}
+    .form-block-text {
+        text-align: center;
+        margin-bottom: 40px;}
+    .video-block h2 {
+        margin-bottom: 40px;}
+    .advantages-item {
+        margin-bottom: 20px;}
+    .menu-footer.menu-right,
+    .menu-footer.menu-left,
+    .footer-logo {
+        z-index: 2;}
+    .footer-text {
+        z-index: 1;}
+
+         /*------- About--------*/
+    .about-page .group img {
+        max-width: 285px;
+        width: 107%;}
+    .sidebar-menu {
+        padding: 15px 10px;
+        margin-right: 16px;}
+    .sidebar-menu ul a {
+        padding-top: 10px;
+        padding-bottom: 10px;}
+    .subscribe {
+        padding: 0;}
+    .about-page .insta-inner img {
+        width: 100%;
+        max-width: 295px;
+        margin: 0 auto;
+        margin-bottom: 15px;}
+    .about-page img {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 580px;}
+ 
+
+         /*------- Teachers page--------*/
+    .teachers-page .col-sm-offet-3-24 {
+        margin-left: 0;}
+    .teachers-page .col-xs-offet-3-24{
+        margin-left: 4%;}
+    .teachers-page .col-xs-offet-3-24 {
+        margin-left: 16%;
+        margin-right: 16%;}
+    .box-teacher {
+        -ms-flex-preferred-size: 32%;
+        flex-basis: 39%;
+        max-width: 39%;
+        min-width: auto;}
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 20px 80px;}
+    .teachers-page h1 {
+        margin-bottom: 34px;
+        font-size: 34px;
+        padding-bottom: 10px;}
+
+
+
+        /*------- Video--------*/
+    .videos-item {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 30px;}
+
+
+        /*------- Review--------*/
+    .review-inner-image img {
+        width: 98%;
+        margin: 0 auto;}
+    .review-inner-meta {
+        padding: 20px 15px 15px;}
+    .review-page h1{
+        font-size: 34px;}
+    .reviews-slide {
+        margin-bottom: 10px;
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 10px;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-page .teacher-photo-wrap {
+        padding-left: 0;}
+    .teacher-page .teacher-bio {
+        padding-top: 25px;}
+    .teachers-page .teacher-btn-call {
+        margin-bottom: 0;}
+    .teacher-page .teacher-bio {
+        padding-top: 25px;
+        padding-left: 15px;
+        padding-right: 15px;}
+    .teacher-page .teacher-bio p {
+        margin-bottom: 8px;}
+    .teacher-btn{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;}
+    .teacher-page .reviews-slide {
+        margin-bottom: 15px;
+        width: 100%;}
+ 
+         /*------- Partners--------*/
+
+
+        /*------- Медиа-центр --------*/
+    .photos-page .photos-item {
+        width: 85%;
+        margin: 0 auto;
+        margin-bottom: 30px;}
+
+
+         /*------- Photos-inner --------*/
+    .photo-nav-slide img {
+        max-width: 98%;}
+    .photo-nav-slider {
+        padding-right: 35px;}
+    .new-page .photos-title {
+        margin-bottom: 15px;}
+
+         /*------- New --------*/
+    .new-page .news-item {
+        width: 59%;
+        margin: 0 auto;
+        margin-bottom: 30px;}
+
+         /*------- News --------*/
+    .news-page .news .content .col-xs-12{
+        width: 50%;}
+
+         /*------- Library --------*/
+    .news-page .news .media-cats {margin-bottom: 25px;}
+    .library-page .news .content .col-xs-12{width: 100%!important;}
+    .library-page .news .content .lib-items .col-xs-12{width: 50%!important;}
+    .library-sidebar ul {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+                padding-bottom: 14px;
+                margin-bottom: 15px;}
+    .library-sidebar ul li {margin: 0 10px;}
+    .library-sidebar ul li a {padding-bottom: 4px;}
+    .lib-item {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 30px;}
+    .library-page .news .news-count-bottom {
+        float: right;
+        width: auto;
+        margin-bottom: 0;
+        display: inline-block;}
+    .library-page .news-count {margin-bottom: 20px;}
+    .lib-item {width: 78%;}
+
+         /*------- Library item--------*/
+    .lib-meta .col-md-4 img{
+        display: block;
+        max-width: 100%;
+        margin: 0 auto;
+        margin-bottom: 10px;}
+    .library-page .view-btn{margin-right: 20px;}
+    .library-page .view-btn, .library-page .order-btn {
+        margin-bottom: 15px;
+        margin-left: 0;
+        line-height: 23px;
+        padding: 10px 20px;}
+    .library-page .lib-meta {
+        margin-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;}
+    .library-page .content .col-md-9 p {
+        text-align: left;
+        padding-left: 10px;
+        padding-right: 10px;}
+
+         /*------- Courses-page--------*/
+    .courses-page .courses-img img {
+        display: block;
+        margin: 0 auto;
+        max-width: 510px;}
+    .courses-page .course-info {padding: 0 25px;}
+    .courses-page .course-about {margin-bottom: 30px;}
+    .courses-page .course-text {padding: 30px 10px 25px;}
+    .courses-page .knowledge {
+        padding-top: 45px;
+        padding-bottom: 35px;}
+    .courses-page .knowledge li {margin-bottom: 10px;}
+    .courses-page .metavionika-video img{
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 15px;}
+    .courses-page .metavionika-text{
+        padding-left: 17px;
+        padding-right: 15px;}
+    .courses-page .metavionika .container {padding-bottom: 15px;}
+    .courses-page .study-steps {
+        padding-top: 50px;
+        padding-bottom: 35px;}
+    .courses-page .teachers-slide-inner {padding: 11px 208px 80px;}
+    .courses-page .course-price-item {
+        padding: 30px 15px 35px;
+        width: 80%;
+        margin: 0 auto 10px;}
+    .courses-page .photo-last-item {
+        margin-bottom: 10px;
+        width: 58%;
+        margin: 0 auto 10px;}
+    .courses-page .reviews-slide {padding: 20px 9px;}
+	.courses-page .teachers-slide-inner {padding: 11px 240px 80px;}
+	.courses-page .teachers-slide-bg img {width: 305px;}
+	.teachers-slider-page .teachers-slide { margin-top: -35px;}
+	.courses-slider-page .courses-slide {margin: 0 auto 20px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses .courses-slider-wrap .col-xs-12 { width: 50%;}
+	.courses-page .courses .courses-slide {padding: 20px 18px 20px;}
+	.courses-page .seo-img img {max-width: 95%; }
+	.seo-img{padding-top: 10px;} 
+	.courses-page .courses .courses-title {
+		font-size: 19px;
+    	margin-bottom: 10px;}
+	.courses-page .courses .courses-text {
+    	line-height: 20px;
+    	margin-bottom: 10px;}
+
+         /*------- Registr page--------*/
+	.registr-page .registr-info	img{
+		display: block;
+    	max-width: 100%;
+    	margin: 0 auto 20px;}
+	.registr-page .registr-spec {
+	    width: 100%;
+	    padding: 15px 10px;
+	    margin-bottom: 20px;}
+	.registr-page .content {
+	    padding-bottom: 15px;
+	    padding-left: 13px;
+	    padding-right: 0;}
+	.registr-page  .registr-spec-name {
+	    line-height: 23px;
+	    width: 50%;
+	    padding-top: 5px;}
+	.registr-page .registr-spec-row {
+	    float: right;
+	    width: calc(100% - 83px);
+	    line-height: 35px;}
+	.registr-page .registr-spec-photo {
+	    float: left;
+	    margin-right: 10px;}
+	.registr-page .registr-spec-date {
+	    width: 55%;}
+	.registr-page .registr-block .news-count-bottom {
+	    float: right;
+	    margin-right: 40px;
+	    width: auto;
+	    padding: 0 15px;}
+	.registr-page .registr-block .pagination {
+	    padding-left: 15px;
+	    padding-right: 15px;}
+	.registr-page .show-more {margin: 35px auto 30px;}
+	.registr-page h2.center-line {font-size: 31px;}
+
+
+         /*------- Schedule page--------*/
+
+	.schedule-courses-item-info {
+	    width: 538px;
+	    height: 100vh;
+	    margin: 0 auto;
+	    bottom: 0;
+	    top: 9%;
+	    margin-top: -100px;
+	    vertical-align: middle;
+	    left: 16%;
+	    transform: none;}
+
+    .all-courses-menu {width: 700px;}
+    .about-page .sidebar-menu {
+        max-width: 99%;
+        width: 99%;}
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;
+        width: 51%;}
+    .sidebar .subscribe input[type=email],
+    .sidebar .subscribe input[type=submit] {
+        width: 90%;}
+    .about-page .sidebar{
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;}
+    .big-image-slider .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        width: 100%;
+        padding: 0;}
+    .menu ul li a{padding-left: 5px;}
+    .big-image-slider .slick-dots {bottom: 17px;}
+    .big-image-slider .arrow {bottom: 17px;}
+    .big-image-slider .arrow.next-arrow {right: 41%;}
+    .big-image-slider .arrow.prev-arrow {left: 41%;}
+    .big-image-slider .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        width: 100%;
+        padding: 0;}
+    .schedule-page .filter-result h2 {
+        position: relative;
+        color: #000;
+        line-height: 27px;
+        margin-bottom: 20px;
+        font-size: 25px;
+        width: 100%;
+        text-align: center;
+        z-index: 2;}
+    .schedule-page .filter-result .filter-item:first-child {
+        margin-top: 115px;}
+
+
+
+
+
+
+
+
+}
+@media (max-width: 763px){
+         /*------- Registr page--------*/
+	.registr-page .content h1 {
+	    font-size: 37px;
+	    margin-bottom: 20px;
+	    padding-bottom: 10px;}
+	.registr-page .filter-block span {
+	    font-size: 14px;
+	    letter-spacing: 0.15px;
+	    margin-right: 2px;
+	    margin-bottom: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    -ms-flex-preferred-size: 52%;
+	        flex-basis: 52%;
+	    width: auto;
+	    margin-bottom: 10px;}
+	.registr-page .filter-block {
+	    -webkit-box-pack: center;
+	        -ms-flex-pack: center;
+	            justify-content: center;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;}
+	.registr-spec-name,
+	.registr-spec-city,
+	.registr-spec-status {font-size: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    -ms-flex-preferred-size: 52%;
+	    flex-basis: 52%;
+	    width: auto;
+	    margin-bottom: 10px;
+	    margin-right: 40px;
+	    margin-left: 40px;}
+
+	         /*------- Schedule page--------*/
+    .schedule-courses-item-info {
+        width: 248px;
+        height: 100vh;
+        margin: 0 auto;
+        bottom: 0;
+        top: 9%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: 102%;
+        /* transform: none; */
+        transform: translateX(-50%);}
+    	.schedule-page .day-of-week {font-size: 12px;}
+
+
+}
+@media (max-width: 690px){
+	         /*------- Courses-page--------*/
+	.courses-page .teachers-slide-inner {padding: 11px 215px 80px;}
+         /*------- Registr page--------*/
+	.registr-page .content h1 {
+	    font-size: 37px;
+	    margin-bottom: 20px;
+	    padding-bottom: 10px;}
+	.registr-page .filter-block span {
+	    font-size: 14px;
+	    letter-spacing: 0.15px;
+	    margin-right: 2px;
+	    margin-bottom: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    -ms-flex-preferred-size: 52%;
+	        flex-basis: 52%;
+	    width: auto;
+	    margin-bottom: 10px;}
+	.registr-page .filter-block {
+	    -webkit-box-pack: center;
+	        -ms-flex-pack: center;
+	            justify-content: center;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;}
+	.registr-spec-name,
+	.registr-spec-city,
+	.registr-spec-status {font-size: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    -ms-flex-preferred-size: 52%;
+	    flex-basis: 52%;
+	    width: auto;
+	    margin-bottom: 10px;
+	    margin-right: 30px;
+	    margin-left: 30px;}
+	.registr-page .registr-block .news-count-bottom {margin-right: 4px;}
+	         /*------- Schedule page--------*/
+.schedule-courses-item-info {
+    width: 191px;
+    height: auto;
+    margin: 0 auto;
+    bottom: 0;
+    top: 9%;
+    margin-top: -100px;
+    vertical-align: middle;
+    left: 63%;
+    transform: translateX(-50%);}
+    .schedule-page .day-of-week {font-size: 12px;}
+	.schedule-page .day-of-week {height: 45px;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;}
+    .schedule-page .courses-text {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 5px;}
+    .schedule-page .courses-title {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 10px;}
+    .courses-length img {
+        margin-right: 5px;
+        max-width: 19px;}
+    .schedule-page .courses-length span,
+    .schedule-page .courses-time,
+    .schedule-page .courses-date { font-size: 14px;}
+    .schedule-table {
+        margin-top: 30px;
+        box-shadow: -4px 4px 20px rgba(0, 86, 144, 0.1);
+        background-color: #ffffff;
+        display: none;
+        width: 740px;
+        margin-left: 30px;
+        margin-right: 30px;}
+    .schedule-page .container {
+        width: 100%;
+        overflow-x: scroll;}
+    .courses-price { float: none;}
+    .schedule-page .courses-length {
+        float: none;
+        margin-bottom: 3px;}
+    .schedule-page .courses-price {
+        float: none;
+        font-size: 14px;
+        margin-bottom: 5px;
+        line-height: 20px;}
+    .schedule-page .courses-teachers {
+        margin-bottom: 8px;
+        text-align: center;}
+    .schedule-page .cell {
+        padding: 5px 2px;
+        height: 200px;}
+    .schedule-page .day-of-week {
+        height: 55px;}
+
+    .all-courses-menu {width: 605px;}
+    .big-image-slider .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        width: 100%;
+        padding: 0;}
+    .menu ul li a{padding-left: 5px;}
+
+
+
+
+}
+
+
+@media (max-width: 650px){
+         /*------- Home--------*/
+    .top-menu {
+        float: none;
+        text-align: center;}
+    .top-menu ul li a {
+        padding-left: 3px;
+        padding-right: 5px;
+        font-size: 13.8px;}
+    .box-head .menu,
+    .top-line .social,
+    .top-line .login {
+        display: none;}
+    .wrap-mpbile {
+        display: block;}
+    .box-head{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        align-items: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        padding-right: 25px;}
+    .big-image-title {
+        font-size: 32px;
+        line-height: 33px;
+        margin-bottom: 15px;}
+    .big-image-text {
+        font-size: 17px;
+        margin-bottom: 18px;}
+
+    .about-title, .about-school-text h2,
+    h2, .practice-slide h2, .courses h2,
+    .teachers h2, .reviews h2, .video-block h2,
+    .study h2, .advantages h2,
+    .insta h2,
+    .knowledge h2,
+    .seo-block h2,
+    .study-steps h2,
+    .course-teachers h2,
+    .course-price h2,
+    .photo-last h2,
+    .teacher-courses h2{
+        font-size: 32px;
+        line-height: 38px;}
+
+    .study-text li {
+        margin-bottom: 10px;
+        line-height: 23px;}
+    .advantages-item {
+        margin-bottom: 15px;}
+    .advantages-item img {
+        margin-right: 5px;
+        width: 15px;}
+    .professor-bio {
+        margin-bottom: 5px;}
+    .practice-dop,
+    .practice-date {
+        margin-bottom: 20px;}
+    .courses-slide {
+        height: auto;
+        width: 90%;
+        margin: 0 auto;}
+    .courses-slider .arrow.next-arrow {
+        right: 36%;
+        left: auto;}
+    .courses-slider .arrow.prev-arrow {
+        left: 36%;}
+    .teachers-slider .arrow.prev-arrow {
+        left: 35%;}
+    .teachers-slider .arrow.next-arrow {
+        right: 35%;}
+    .teachers-slide-inner {
+        padding: 34px 172px 80px;}
+    .reviews-text {
+        text-align: center;}
+    .reviews-slider .arrow.next-arrow {
+        right: 36%;}
+    .reviews-slider .arrow.prev-arrow {
+        left: 36%;}
+    .video {
+        margin-right: 0;
+        margin-left: -2px;}
+    .video-block .slick-slide img {
+        display: block;
+        margin: 0 auto;
+        max-width: 95%;}
+    .video-block h2 {
+        margin-bottom: 30px;}
+    .form-block-text {
+        text-align: center;
+        margin-bottom: 32px;
+        font-size: 17px;
+        line-height: 25px;}
+    .menu-footer li a {
+        padding-right: 7px;
+        padding-top: 0;
+        padding-left: 4px;
+        padding-bottom: 0;
+        line-height: 29px;}
+    .about-school-text {
+        font-size: 16px;
+        padding: 50px;
+        text-align: center;
+        line-height: 30px;}
+    .study {
+        padding-top: 60px;
+        padding-bottom: 50px;}
+
+         /*------- About--------*/
+    .about-page {
+        padding-left: 5px;
+        padding-right: 5px;}
+    .about-page .sidebar-menu {
+        max-width: 49%;}
+    h1 {
+        font-size: 36px;
+        margin-bottom: 25px;}
+    .about-page .insta-inner img {
+        width: 100%;
+        max-width: 395px;}
+
+
+         /*------- Teachers page--------*/
+    .teachers-page .col-sm-offet-3-24 {
+        margin-left: 0;}
+    .teachers-page .col-xs-offet-3-24 {
+        margin-left: 0;
+        margin-right: 0;}
+    .box-teacher {
+        -ms-flex-preferred-size: 32%;
+        flex-basis: 44%;
+        max-width: 44%;
+        min-width: auto;}
+    .teachers-slider-page .teachers-slide {
+        margin-top: -25px;}
+    .teachers-page .teachers-slider-wrap {
+        padding-top: 30px;}
+
+
+        /*------- Video--------*/
+
+    .media-cat {
+        margin-right: 5px;
+        margin-left: 5px;}
+    .media-cats {
+        float: none;
+        margin-bottom: 25px;
+        text-align: center;}
+    .videos-page .pagination span,
+    .videos-page .pagination a {
+        padding-left: 6px;
+        padding-right: 6px;}
+    .videos-page .pagination {
+        padding-left: 5px;
+        padding-right: 5px;}
+    .videos-page .news-count-bottom {
+        width: auto;
+        padding: 0 10px;}
+    .news-count-items span {
+        padding-left: 6px;
+        padding-right: 6px;}
+
+
+
+
+        /*------- Review--------*/
+    .reviews-name {
+        margin-bottom: 20px;}
+    .reviews-photo {
+        margin-bottom: 15px;}
+    .reviews-slide {
+        padding: 25px;}
+
+
+        /*------- Reviews--------*/
+    .reviews-page .reviews-slide {
+        margin-bottom: 30px;
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 15px;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-page .teacher-text {
+        padding-top: 40px;}
+
+
+         /*------- Partners--------*/
+
+
+
+
+        /*------- Медиа-центр --------*/
+    .photos-page .pagination {
+        padding-left: 10px;
+        padding-right: 10px;}
+    .photos-page .news-count {
+        width: 220px;
+        height: 28px;
+        text-align: center;
+        padding-left: 0;}
+    .photos-page .news-count-bottom {
+        width: auto;
+        padding: 0 10px;}
+
+
+         /*------- Photos-inner --------*/
+
+
+
+         /*------- New --------*/
+
+         /*------- News --------*/
+    .news-page .news .content .col-xs-12{
+        width: 50%;}
+    .news-page .news .pagination {
+        padding-left: 10px;
+        padding-right: 10px;
+        float: left;}
+    .news-page .news .news-count-bottom {
+        float: right;
+        width: auto;
+        margin-bottom: 0;
+        padding-left: 10px;
+        padding-right: 10px;}
+
+         /*------- Library --------*/
+    .library-page .content h1{font-size: 32px;}
+    .library-page .news .pagination {
+        padding-left: 10px;
+        padding-right: 10px;}
+
+
+         /*------- Library item--------*/
+    .library-page .library-item .content h1 {
+        font-size: 30px;
+        text-align: center;}
+    .library-page .library-item .lib-price {
+        font-size: 33px;}
+
+         /*------- Courses-page--------*/
+	.courses-page-title h1 {
+	    margin-top: 5px;
+	    font-size: 36px;
+	    margin-bottom: 40px;}
+	.courses-page .teachers-slide-inner {padding: 11px 170px 80px;}
+	.courses-page .course-price-block {height: auto;}
+	.courses-page .course-price-item {padding: 25px 15px 25px;}
+	.courses-slider-page .courses-slide {
+	    margin: 0 auto 20px;
+	    width: 96%;
+	    max-width: 400px;}
+	.courses-page .photo-last-item {width: 66%;}
+	.courses-page .course-video-block .video {height: 0;}
+
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses .courses-slider-wrap .col-xs-12 {width: 100%;}
+
+
+         /*------- Registr page--------*/
+	.registr-page .content h1 {
+	    font-size: 37px;
+	    margin-bottom: 20px;
+	    padding-bottom: 10px;}
+	.registr-page .filter-block span {
+	    font-size: 14px;
+	    letter-spacing: 0.15px;
+	    margin-right: 2px;
+	    margin-bottom: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 5px;
+	    margin-left: 5px;
+	    padding-right: 35px;
+	    padding-left: 13px;
+	    -ms-flex-preferred-size: 52%;
+	        flex-basis: 52%;
+	    width: auto;
+	    margin-bottom: 10px;}
+	.registr-page .filter-block {
+	    -webkit-box-pack: center;
+	        -ms-flex-pack: center;
+	            justify-content: center;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;}
+	.registr-spec-name,
+	.registr-spec-city,
+	.registr-spec-status {font-size: 15px;}
+	.registr-page .filter-block .filter-item {
+	    margin-right: 30px;
+	    margin-left: 30px;}
+	.registr-page .registr-block .news-count-bottom {float: none; display: inline-block;}
+	.registr-page .registr-block .col-md-9 {text-align: center;}
+	.registr-page .show-more {margin: 35px auto 15px;}
+	.registr-page .registr-spec-name,
+	.registr-page .registr-spec-date {
+	    text-align: left;}
+	.registr-page #tabs ul.link-list li a {
+	    margin-bottom: 2px;
+	    font-size: 14px;
+	    padding: 4px 1px;}
+	.registr-page #tabs ul.link-list li {
+	    padding-left: 5px;
+	    padding-right: 5px;
+	    height: auto;
+	    text-align: center;
+	    flex-basis: 30%;
+	    margin: 0 20px;}
+	.registr-page #tabs ul.link-list li.ui-tabs-active {
+	    flex-basis: 30%;
+	    text-align: center;}
+
+	         /*------- Schedule page--------*/
+	.schedule-courses-item-info {
+	    width: 375px;
+	    height: 289px;
+	    margin: 0 auto;
+	    bottom: 0;
+	    top: 9%;
+	    margin-top: -100px;
+	    vertical-align: middle;
+	    left: 13%;
+	    transform: none;}
+	.schedule-page .cell { height: 210px;}
+	.schedule-page .cell {padding: 5px 1px;}
+	.schedule-page .day-of-week {font-size: 11px;}
+	.schedule-page-title h1 { font-size: 36px;}
+	.schedule-page .day-of-week {height: 60px;}
+
+    .schedule-courses-item-info {
+        width: 251px;
+        height: 289px;
+        margin: 0 auto;
+        bottom: 0;
+        top: 45%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: -50%;
+        transform: none;}
+
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 300px;
+        top: 9%;}
+    .schedule-courses-item-info {
+        position: fixed;
+        width: 386px;
+        height: 408px;
+        margin: 0 auto;
+        bottom: 137px;
+        top: -27%;
+        margin-top: auto;
+        vertical-align: middle;
+        left: 0;
+        right: 0;
+        transform: none;
+        /*background: rgba(0, 0, 0, 0.6);*/}
+    .schedule-courses-item-info {
+        width: 390px;
+        height: 364px;
+        margin: 0 auto;
+        bottom: 0;
+        top: 52%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: 13%;
+        transform: none;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 283px;
+        top: 9%;}
+
+    .menu-hid{display: none;}
+    .wrap-mpbile {
+        display: block;
+        float: right;
+        height: 70px;
+        line-height: 70px;
+        margin-right: 20px;}
+    .wrap-mpbile .login {
+        float: left;
+        padding-left: 15px;
+        margin-right: -15px;
+        line-height: 40px;
+        height: 70px;
+        font-size: 0;
+        line-height: 70px;}
+    .social::before {
+        content: '';
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 18px;
+        width: 1px;
+        height: 33px;}
+    .login img {
+        margin-right: 10px;
+        max-width: 14px;
+        padding-top: 5px;}
+    .login span {
+        display: inline-block;
+        vertical-align: middle;
+        padding-top: 6px;}
+    .about-page .sidebar-menu {
+        max-width: 99%;
+        width: 99%;}
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;
+        width: 51%;}
+    .sidebar .subscribe input[type=email],
+    .sidebar .subscribe input[type=submit] {
+        width: 90%;}
+    .about-page .sidebar{
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;}
+
+
+
+
+}
+
+@media only screen and (min-width: 632px) and (max-width: 650px){
+    .courses-page .teachers-slide-inner { padding: 11px 177px 80px;}
+
+
+}
+
+
+@media (max-width: 632px){
+
+         /*------- Courses-page--------*/
+    .courses-page-title h1 {
+        margin-top: 5px;
+        font-size: 36px;
+        margin-bottom: 40px;}
+    .courses-page .teachers-slide-inner {padding: 11px 170px 80px;}
+    .courses-page .course-price-block {height: auto;}
+    .courses-page .course-price-item {padding: 25px 15px 25px;}
+    .courses-slider-page .courses-slide {
+        margin: 0 auto 20px;
+        width: 96%;
+        max-width: 400px;}
+    .courses-page .photo-last-item {width: 66%;}
+    .courses-page .course-video-block .video {height: 0;}
+
+
+         /*------- Courses-page all--------*/
+    .courses-page .courses .courses-slider-wrap .col-xs-12 {width: 100%;}
+
+    .all-courses-menu {
+        width: 570px;
+        padding: 18px 20px;}
+    .all-courses-menu .courses-group-title {
+        font-size: 18px; margin-bottom: 5px;}
+
+
+
+
+
+
+}
+@media (max-width: 600px){
+    .courses-filter span {margin-right: 16px;}
+    .courses-filter select{margin-right: 15px;}
+    .courses-filter .show-courses {
+        width: auto;
+        padding: 10px 20px;
+        height: auto;
+        line-height: 1;
+        letter-spacing: 0;}
+}
+@media (max-width: 580px){
+         /*------- Home--------*/
+    .reviews {
+        padding-top: 55px;
+        padding-bottom: 55px;}
+    .big-image-bg img{
+        width: 114%;}
+    .big-image-title {
+        font-size: 28px;
+        line-height: 28px;
+        margin-bottom: 12px;}
+    .big-image-inner {
+        padding-left: 5%;}
+    .big-image-text {
+        font-size: 16px;
+        margin-bottom: 13px;}
+    .big-image-button .btn{
+        margin-right: 22px;
+        margin-bottom: 10px;}
+    .big-image-button .btn a {
+        line-height: 1;
+        font-size: 12.5px;}
+    .big-image-inner {
+        position: absolute;
+        top: 54%;}
+                 /*------- ALL H2 --------*/
+    .about-title, .about-school-text h2,
+    h2, .practice-slide h2, .courses h2,
+    .teachers h2, .reviews h2, .video-block h2,
+    .study h2, .advantages h2,
+    .insta h2,
+    .knowledge h2,
+    .study-steps h2,
+    .course-teachers h2,
+    .course-price h2,
+    .photo-last h2,
+    .teacher-courses h2{
+        font-size: 30px;
+        line-height: 32px;}
+                 /*------- ALL H2 --------*/
+    .about-title {
+        margin-bottom: 30px;}
+    .about-inner {
+        background-image: url(../images/about.png);
+        background-repeat: no-repeat;
+        padding-bottom: 60px;
+        background-size: 84%;
+        padding-top: 30px;
+        background-position: center;}
+    .advantages {
+        background-image: url(../images/advantages.png);
+        background-repeat: no-repeat;
+        background-size: 89%;
+        background-position: center;}
+    .study h2 {
+        border-bottom: none;}
+    .practice-slider {
+        padding-left: 35px;}
+    .courses-slider-wrap {
+        padding-top: 25px;}
+    #tabs ul.link-list li a {
+        height: auto;
+        line-height: 20px;
+        margin-bottom: 2px;
+        font-size: 14px;
+        padding: 4px 10px;}
+    .teachers-slider .arrow.prev-arrow {
+        left: 32%;}
+    .teachers-slider .arrow.next-arrow {
+        right: 32%;}
+    label.for-checkbox {
+        text-align: center;}
+
+         /*------- About--------*/
+    .about-page .sidebar{
+        padding-top: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: center;
+        width: 100%;
+        margin: 0 auto;
+        flex-wrap: wrap;}
+    .about-page .sidebar-menu {
+        max-width: 100%;}
+    .about-page .group img {
+        max-width: 305px;
+        width: 100%;}
+    .about-page .sidebar-menu {
+        max-width: 100%;
+        text-align: center;
+        margin-right: 16px;
+        padding: 15px 20px;}
+    .about-page .content {
+        padding-bottom: 35px;}
+    .about-page .insta-inner img {
+        width: 100%;
+        max-width: 340px;}
+
+
+         /*------- Teachers page--------*/
+    .teachers-page .teachers-slide-bg img {
+        width: 260px;}
+    .teachers-slider-page .teachers-slide {
+        margin-top: -17px;}
+
+
+        /*------- Video--------*/
+    .media-cat {
+        margin-right: 2px;
+        margin-left: 2px;}
+    .videos-page .pagination span, .videos-page .pagination a {
+        padding-left: 5px;
+        padding-right: 5px;}
+    .news-count-items span {
+        padding-left: 3px;
+        padding-right: 3px;}
+
+
+        /*------- Review--------*/
+    .review-page h1 {font-size: 32px;}
+    .review-inner-meta {
+        padding: 15px 15px 10px;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-page .teacher-courses {
+        padding-top: 60px;
+        padding-bottom: 25px;}
+
+         /*------- Partners--------*/
+
+    .course-video-block .form-block-form {
+        padding-left: 30px;
+        padding-right: 30px;}
+
+
+        /*------- Медиа-центр --------*/
+    .photos-page h1 {
+        font-size: 33px;
+        margin-bottom: 25px;
+        margin-top: 20px;}
+    .photos-info {
+        padding: 15px;}
+    .pagination {
+        float: none;
+        margin-bottom: 10px;}
+    .photos-page .content {
+        padding-bottom: 0;
+        text-align: center;}
+    .photos-page .photos-items{text-align: left;}
+    
+
+         /*------- Photos-inner --------*/
+    .new-page .photo-slider {margin-bottom: 60px !important;}
+    .new-page .photo-nav-slider .arrow.next-arrow {bottom: 10px;}
+    .new-page .photo-nav-slider .arrow.prev-arrow {bottom: 45px;}
+    .new-page h1 {font-size: 28px;}
+    .recent-news h2 {font-size: 27px;}
+
+
+         /*------- New --------*/
+    .new-page .news-item {width: 75%;}
+
+         /*------- News --------*/
+    .news-page .news .content .col-xs-12{
+        width: 100%;}
+    .news-page .news .pagination {
+        padding-left: 15px;
+        padding-right: 15px;
+        float: none;
+        margin-bottom: 0;}
+    .news-page .news .news-count-bottom {
+        float: none;
+        width: auto;
+        margin-bottom: 0;
+        padding-left: 15px;
+        padding-right: 15px;}
+    .news-page .news .news-item {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 75%;}
+    .news-page .news .content{text-align: center; padding-bottom: 10px;}
+    .news-page .news .news-items{text-align: left;}
+
+         /*------- Library --------*/
+    .lib-item {width: 99%;}
+    .library-page .news .col-md-9 .pagination {
+        float: none;
+        margin-bottom: 0;}
+    .library-page .news .media-cats {margin-bottom: 15px;}
+
+         /*------- Library item--------*/
+    .library-page .view-btn, .library-page .order-btn {
+        margin-bottom: 15px;
+        margin-left: 0;
+        line-height: 16px;
+        padding: 11px 20px;
+        height: auto;}
+
+         /*------- Courses-page--------*/
+	.courses-page .course-info {padding: 0;}
+	.courses-page .courses-page-info{ padding-left: 20px; padding-right: 20px; }
+	.courses-page .courses-img img {max-width: 466px;}
+	.courses-page .course-text {padding: 20px 10px 20px;}
+	.courses-page .metavionika-text {
+	    padding-left: 0;
+	    padding-bottom: 0;
+	    padding-right: 0;}
+	.courses-page .metavionika {
+	    padding-left: 17px;
+	    padding-right: 15px;}
+	.study-steps h2 {margin-bottom: 40px;}
+	.study-steps-item {margin-bottom: 20px;}
+	.study-steps-title {font-size: 17px;}
+	.course-teachers .teachers-slider-wrap {padding-top: 40px;}
+	.courses-page .teachers-slide-inner {padding: 11px 125px 80px;}
+	.courses-page .teachers-photo {margin-bottom: 12px;}
+	.courses-page .course-teachers {
+	    padding-top: 45px;
+	    padding-bottom: 20px;}
+	.course-price-text {margin-bottom: 20px;}
+	.courses-page .course-price-order .btn {padding: 8px 25px;}
+	.photo-last h2 {margin-bottom: 50px;}
+
+    .all-courses-menu .courses-group {
+        margin-bottom: 20px;}
+    .all-courses-menu {
+        width: 525px;
+        padding: 18px 20px;}
+
+
+
+
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list li a {
+	    height: auto;
+	    line-height: 1;
+	    margin: 0;
+	    padding: 9px 0;
+	    font-size: 15px;}
+	.courses-page .courses .courses-price,
+	.courses-page .courses .courses-length {
+    	margin-bottom: 10px;}
+	.courses-page .courses .courses-teachers {margin-bottom: 15px;}
+	.courses-page .seo-block h2 {
+	    font-size: 32px;
+	    padding-bottom: 5px;
+	    margin-bottom: 25px;}
+
+         /*------- Registr page--------*/
+	.registr-page #tabs ul.link-list li.ui-tabs-active,
+	.registr-page #tabs ul.link-list li{
+	    -ms-flex-preferred-size: 35%;
+    	flex-basis: 35%;}
+	.registr-spec-link,
+	.registr-spec-city,
+	.registr-spec-courses {float: left;}
+	.registr-page .registr-spec-date { width: 48%;     margin-right: 10px;}
+	.registr-spec-courses {margin-right: 10px;}
+	.registr-page .registr-spec-name {margin-right: 10px;}
+	.registr-page .registr-spec-courses,
+	.registr-page .registr-spec-link,
+	.registr-page .registr-spec-date{
+	    line-height: 25px;}
+	.registr-page .registr-block .news-count-bottom{margin-bottom: 0;}
+
+	         /*------- Schedule page--------*/
+	.schedule-courses-item-info {
+	    width: 338px;
+	    height: 265px;
+	    margin: 0 auto;
+	    bottom: 0;
+	    top: 9%;
+	    margin-top: -100px;
+	    vertical-align: middle;
+	    left: 13%;
+	    transform: none;}
+	.schedule-page .day-of-week {height: 60px;}
+
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 300px;
+        top: 9%;}
+    .schedule-courses-item-info {
+        position: fixed;
+        width: 386px;
+        height: 408px;
+        margin: 0 auto;
+        bottom: 137px;
+        top: -27%;
+        margin-top: auto;
+        vertical-align: middle;
+        left: 0;
+        right: 0;
+        transform: none;
+       /* background: rgba(0, 0, 0, 0.6);*/}
+    .schedule-courses-item-info {
+        width: 390px;
+        height: 364px;
+        margin: 0 auto;
+        bottom: 0;
+        top: 52%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: 13%;
+        transform: none;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 283px;
+        top: 9%;}
+
+    .schedule-bar .next-year {margin-left: 20px;}
+    .schedule-bar .prev-year {margin-right: 20px;}
+    .big-image-inner {
+        position: absolute;
+        top: 48%;}
+    .schedule-page .filter-result .filter-item {
+        padding: 25px 10px 20px 11px;}
+    .filter-block .filter-item-reg {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-bottom: 10px;}
+
+
+
+
+
+
+
+}
+@media only screen and (min-width: 515px) and (max-width: 580px){
+
+    .videos-page .pagination {
+        float: left;}
+    .news-page .news .news-count-bottom {display: inline-block;}
+
+
+}
+
+@media only screen and (min-width: 542px) and (max-width: 580px){
+    .courses-page .teachers-slide-inner {padding: 11px 138px 80px;}
+
+}
+@media (max-width: 542px){
+    .courses-page .teachers-slide-inner {padding: 11px 125px 80px;}
+    .courses-filter .show-courses {
+        width: auto;
+        padding: 8px 13px;}
+    .schedule-page .courses-filter select {
+        width: 180px;
+        padding-left: 13px;
+        padding-right: 14px;}
+    .all-courses-menu .courses-group {
+        margin-bottom: 20px;}
+    .all-courses-menu {
+        width: 475px;
+        padding: 18px 15px;}
+    .all-courses-menu .courses-group-title {
+        font-size: 17px;
+        line-height: 19px;
+        margin-bottom: 5px;}
+    .big-image-slider .slick-dots,
+    .big-image-slider .arrow {
+        bottom: 10px;}
+    .big-image-bg img {
+        width: 114%;
+        height: 233px;}
+
+
+
+}
+@media (max-width: 515px){
+         /*------- Home--------*/
+    .reviews {
+        padding-top: 55px;
+        padding-bottom: 30px;}
+    .top-menu ul li a {
+        padding-left: 5px;
+        padding-right: 7px;
+        font-size: 13.8px;
+        line-height: 25px;}
+    .top-menu {
+        padding: 6px 0;}
+    .big-image-bg img {
+        width: 114%;
+        height: 211px;}
+    .big-image-inner {
+        padding-left: 3%;}
+    .big-image-title {
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 8px;}
+    .big-image-button .btn {
+        height: auto;
+        padding: 8px 18px;}
+    .about {
+        padding-bottom: 40px;
+        padding-top: 30px;}
+    .advantages {
+        padding-bottom: 50px;
+        padding-top: 45px;}
+    .professor-img img {
+        max-width: 280px;
+        margin: 0 auto;}
+    .professor-name {
+        font-size: 16px;}
+    .professor-bio {
+        font-size: 14.4px;}
+    .professor-bio {
+        margin-bottom: 0;}
+    .professor-desc {
+        width: 295px;
+        margin: -84px auto 20px;}
+    .courses-slider .arrow.next-arrow {
+        right: 33%;}
+    .courses-slider .arrow.prev-arrow {
+        left: 33%;}
+    .courses-teachers span {
+        font-size: 14px;
+        margin-right: 8px;}
+    .courses-title {
+        font-size: 19px;
+        margin-bottom: 10px;}
+    .courses-text {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 10px;}
+    .teachers-slide-inner {
+        padding: 34px 130px 80px;}
+    .teachers-slide-inner {
+        padding: 34px 130px 80px;}
+    .teachers-slider .arrow.prev-arrow {
+        left: 30%;}
+    .teachers-slider .arrow.next-arrow {
+        right: 30%;}
+    .reviews {
+        padding-top: 38px;
+        padding-bottom: 50px;}
+    .teachers h2 {
+        margin-bottom: 15px;}
+    .reviews-slider .slick-dots,
+    .reviews-slider .arrow {
+        bottom: -35px;}
+    .reviews-slider .arrow.next-arrow {
+        right: 32%;}
+    .reviews-slider .arrow.prev-arrow {
+        left: 32%;}
+    .reviews-name {
+        font-size: 19px;
+        margin-bottom: 15px;}
+    .form-block-form {
+        padding-left: 40px;
+        padding-right: 40px;}
+    .form-block-form input[type="email"] {
+        margin-bottom: 20px;}
+    .menu-footer li {
+        vertical-align: top;
+        display: block;}
+    .menu-footer.menu-left,
+    .menu-footer.menu-right {
+        text-align: center;
+        width: 40%;}
+    .video-block {
+        padding-top: 60px;
+        padding-bottom: 25px;}
+    .footer-logo {
+        width: 20%;
+        padding: 0;
+        padding-top: 20px;}
+    .logo img {
+        max-width: 90px;}
+    .header .logo {
+        padding: 20px 18px 12px;}
+
+
+         /*------- About--------*/
+
+
+         /*------- Teachers page--------*/
+    .box-teacher {
+        -ms-flex-preferred-size: 32%;
+        flex-basis: 90%;
+        max-width: 90%;
+        min-width: auto;}
+    .teachers-page h1 {
+        margin-bottom: 34px;
+        font-size: 32px;
+        padding-bottom: 10px;}
+    .teachers-page .teachers-slide-bg img {
+        width: 310px;}
+    .teachers-slider-page .teachers-slide {
+        margin-top: -30px;}
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 71px 80px;}
+
+
+        /*------- Video--------*/
+    .media-cat a {
+        padding-left: 13px;
+        padding-right: 13px;}
+    .media-cats {margin-bottom: 18px;}
+    .news-count-bottom {
+        float: none;
+        display: inline-block;}
+    .videos-page .pagination{
+        height: 28px;
+        display: inline-block;
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 0;
+        margin-top: 0;}
+    .videos-page .content {
+        text-align: center;
+        padding-bottom: 25px;}
+    .videos-page .pagination {
+        padding-left: 10px;
+        padding-right: 10px;}
+    .videos-page .news-count-bottom {
+        width: auto;
+        padding: 0 13px;
+        margin-bottom: 0;}
+
+        /*------- Review--------*/
+
+        /*------- Reviews--------*/
+    .reviews-page .reviews-name {
+        margin-bottom: 15px;
+        font-size: 18px;}
+
+         /*------- Teacher alogne page--------*/
+   .teacher-photo img {
+        display: block;
+        max-width: 235px;
+        margin: 0 auto;}
+    .teacher-btn {
+        padding-left: 15px;
+        padding-right: 15px;}
+      .teacher-page .teacher-btn-call {
+            width: 220px;
+            height: auto;
+            line-height: 23px;
+            padding: 8px 15px;
+            text-align: center;
+            height: 100%;}
+      .teacher-page .teacher-btn-review {
+            width: 220px;
+            padding: 8px 15px;
+            line-height: 23px;
+            height: 100%;}
+      .teacher-page .reviews {
+            padding-top: 38px;
+            padding-bottom: 25px;}
+      .teacher-page .teacher-text-dop {
+            padding-top: 50px;
+            padding-bottom: 50px;}
+
+
+         /*------- Partners--------*/
+
+
+        /*------- Медиа-центр --------*/
+    .photos-page .media-cat a {
+        padding-left: 12px;
+        padding-right: 12px;}
+    .photos-items .photos-title {
+        margin-bottom: 10px;}
+
+        /*------- Photos-inner --------*/
+    .new-page .arrow.next-arrow {right: 28%;}
+    .new-page .arrow.prev-arrow {left: 28%;}
+    .new-page .photo-nav-slider .arrow.next-arrow,
+    .new-page .photo-nav-slider .arrow.prev-arrow {
+        right: 0; left: auto;}
+
+         /*------- New --------*/
+    .new-page .recent-news {
+        padding: 10px 4px 0 7px;}
+
+         /*------- News --------*/
+    .news-page .news .media-cat a {
+        padding-left: 12px;
+        padding-right: 12px;}
+
+         /*------- Library --------*/
+    .library-page .news .content .lib-items .col-xs-12 {
+        width: 100%!important;}
+    .lib-item {width: 64%;     margin-bottom: 12px;}
+    .library-page .news .content .media-cat a {
+        padding-left: 13px;
+        padding-right: 13px;}
+    .library-page .news-count {margin-bottom: 15px;}
+
+         /*------- Library item--------*/
+    .lib-meta .col-md-4 img {max-width: 75%;}
+    .library-page .view-btn {margin-right: 0;}
+
+         /*------- Courses-page--------*/
+	.courses-page .courses-img img {max-width: 100%;}
+	.courses-page .course-nabor {font-size: 32px;}
+	.courses-page .course-nabor span {font-size: 65px;}
+	.courses-page .course-about {
+	    margin-bottom: 20px;}
+	.course-order-btn .btn {
+	    height: auto;
+	    line-height: 1;
+	    padding: 10px 25px;}
+	.courses-page .course-text {padding: 10px 10px 20px;}
+	.knowledge h2 { margin-bottom: 35px;}
+	.courses-page .metavionika {padding-top: 50px;}
+	.study-steps-num img {max-width: 55px;}
+	.courses-page .teachers-slide-inner {padding: 12px 110px 80px;}
+	.course-price-current {font-size: 45px;}
+	.courses-page .photo-last-item {width: 85%;}
+	.courses-page .reviews {
+	    padding-top: 40px;
+	    padding-bottom: 30px;}
+
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    height: auto;
+	    margin: 0;
+	    -ms-flex-preferred-size: 50%;
+	        flex-basis: 50%;
+	    text-align: center;}
+	.courses-page .courses #tabs ul.link-list{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	    -webkit-box-pack: start;
+	        -ms-flex-pack: start;
+	            justify-content: flex-start;}
+	.courses-page .seo-block h2 {
+	    font-size: 30px;
+	    padding-bottom: 5px;
+	    margin-bottom: 15px;
+	    border-bottom: none;}
+	.courses-page .seo-img img {max-width: 100%;}
+
+         /*------- Registr page--------*/
+	.registr-page .registr-spec {
+	    width: 100%;
+	    padding: 15px 3px;}
+	.registr-spec-link, .registr-spec-city, .registr-spec-courses {
+	    float: right;}
+	.registr-page .registr-spec-name {
+	    margin-right: 10px;
+	    line-height: 25px;
+	    font-size: 14.8px;
+	    width: 100%;}
+
+	         /*------- Schedule page--------*/
+	.schedule-page .cell {height: 255px;}
+	.schedule-page .day-of-week {
+	    height: 60px;
+	    word-wrap: break-word;
+	    line-height: 13px;
+	    padding-top: 18px;}
+	.schedule-courses-item-info {width: 331px;}
+	.schedule-page .container{overflow-x: scroll;}
+	.schedule-table.show {
+	    position: relative;
+	    overflow: scroll;
+	    width: 152%;}
+
+
+
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 300px;
+        top: 9%;}
+    .schedule-courses-item-info {
+        position: fixed;
+        width: 386px;
+        height: 408px;
+        margin: 0 auto;
+        bottom: 137px;
+        top: -27%;
+        margin-top: auto;
+        vertical-align: middle;
+        left: 0;
+        right: 0;
+        transform: none;
+       /* background: rgba(0, 0, 0, 0.6);*/}
+    .schedule-courses-item-info {
+        width: 2000px;
+        height: 364px;
+        margin: 0 auto;
+        bottom: 0;
+        top: 52%;
+        margin-top: -100px;
+        vertical-align: middle;
+        left: 86%;
+        transform: none;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 304px;
+        height: 283px;
+        top: 9%;}
+
+    .wrap-mpbile .login {
+        float: left;
+        padding-left: 10px;}
+    .all-courses-menu .courses-group {
+        margin-bottom: 20px;}
+    .all-courses-menu {
+        width: 445px;
+        padding: 18px 15px;}
+    .all-courses-menu .courses-group-title {
+        font-size: 17px;
+        line-height: 19px;
+        margin-bottom: 5px;}
+    .all-courses-menu .col-xs-6{
+        padding-right: 10px;
+        padding-left: 10px;}
+
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;
+        width: 71%;}
+    .big-image-slider .arrow{display: none!important;}
+
+
+}
+@media (max-width: 490px){
+         /*------- Registr page--------*/
+	.registr-page #tabs ul.link-list li.ui-tabs-active, .registr-page #tabs ul.link-list li {
+	    -ms-flex-preferred-size: 40%;
+	    flex-basis: 40%;}
+	         /*------- Schedule page--------*/
+	.schedule-table.show {
+	    position: relative;
+	    overflow: scroll;
+	    width: 124%;}
+	.schedule-courses-item{position: relative;}
+	.schedule-page .cell {position: static;}
+	.schedule-table.show{position: static;}
+	.schedule-bar .prev-month { margin-right: 20px;}
+
+.schedule-courses-item-info {
+    width: 338px;
+    height: 190px;
+    margin: 0 auto;
+    bottom: 0;
+    top: 11%;
+    margin-top: -100px;
+    vertical-align: middle;
+    left: -112%;
+    transform: none;
+    position: absolute;
+    width: 370px;
+    display: none;
+    z-index: 10;
+    bottom: 40px;
+    left: 180%;
+    transform: translateX(-50%);
+}
+
+
+
+
+}
+@media (max-width: 465px){
+         /*------- Registr page--------*/
+	.registr-page .registr-spec-date {
+	    width: 100%;
+	    margin-right: 0;}
+	.registr-pag .registr-spec-courses{float: left;}
+	.registr-spec-courses{float: left;}
+	.schedule-bar .prev-month { margin-right: 20px;}
+	.schedule-bar .prev-year { margin-right: 25px;}
+	.schedule-bar .next-year { margin-left: 25px;}
+
+
+
+}
+@media (max-width: 450px){
+         /*------- Home--------*/
+    .teachers-slide-inner {
+        padding: 34px 105px 80px;}
+    .teachers-slide-bg img {
+        max-width: none;
+        width: 323px;
+        left: 50%;
+        transform: translateX(-48%);}
+    .big-image-button .btn {
+        height: auto;
+        padding: 8px 15px;
+        margin-right: 15px;
+        margin-bottom: 10px;}
+    .big-image-text {
+        font-size: 16px;
+        margin-bottom: 10px;
+        line-height: 20px;}
+    .about-title, .about-school-text h2,
+    h2, .practice-slide h2, .courses h2,
+    .teachers h2, .reviews h2,
+    .video-block h2, .study h2, .advantages h2 {
+        font-size: 26px;
+        line-height: 28px;}
+    .about-inner {
+        padding-bottom: 30px;}
+    .advantages-item {
+        margin-bottom: 12px;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 22px;}
+    .practice-slider .arrow.next-arrow {
+        right: 34%;}
+    .practice-slider .arrow.prev-arrow {
+        left: 34%;}
+    .leading .professor-desc {
+        width: 228px;
+        height: auto;
+        margin: 0 auto;
+        margin-top: -44px;}
+    .courses {
+        padding-top: 55px;
+        padding-bottom: 65px;}
+    .video-block h2 {
+        margin-bottom: 20px;}
+    .form-block-text {
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 16px;
+        line-height: 23px;}
+
+         /*------- About--------*/
+    .about-page .content p {
+        font-size: 15px!important;
+        line-height: 25px!important;}
+
+
+
+         /*------- Teachers page--------*/
+
+
+        /*------- Video--------*/
+    .media-cat {
+        margin-bottom: 10px;}
+    .media-cats {
+        margin-bottom: 8px;}
+    .media-cat a {
+        padding-left: 15px;
+        padding-right: 15px;}
+
+        /*------- Review--------*/
+    .review-page h1 {
+        font-size: 30px;}
+    .reviews-slide {
+        width: 92%;}
+
+        /*------- Reviews--------*/
+
+
+         /*------- Teacher alogne page--------*/
+    .teacher-photo img {
+        display: block;
+        max-width: 210px;
+        margin: 0 auto;}
+    .teacher-page .teacher-text li {
+        margin-bottom: 10px;}
+    .teacher-page .teacher-spec {
+        padding-left: 15px;
+        padding-right: 15px;}
+
+         /*------- Partners--------*/
+    .course-video-block .form-block {
+        padding: 50px 25px;}
+    .course-video-block .video {
+        display: none;}
+
+        /*------- Медиа-центр --------*/
+    .photos-page .media-cat a {
+        padding-left: 15px;
+        padding-right: 15px;}
+
+        /*------- Photos-inner --------*/
+    .new-page .photo-nav-slider .arrow.prev-arrow {
+        bottom: 35px;}
+    .new-page .photo-nav-slider .arrow.next-arrow {
+        bottom: 7px;}
+    .new-page h1 {
+        font-size: 27px;
+        line-height: 29px;
+        text-align: center;}
+    .recent-news h2 {
+        font-size: 25px;}
+    .new-page .photos-title {
+        margin-bottom: 10px;}
+
+         /*------- New --------*/
+    .new-page .news-item {width: 80%;}
+
+         /*------- News --------*/
+    .news-page .news .media-cat a {
+        padding-left: 15px;
+        padding-right: 15px;}
+
+         /*------- Library --------*/
+    .library-page .news .media-cats {margin-bottom: 5px;}
+    .lib-item {width: 68%;}
+
+
+         /*------- Library item--------*/
+    .library-page .library-item .content h1 {
+        font-size: 29px;
+        text-align: center;
+        line-height: 31px;}
+    .library-page .lib-btns {margin-top: 15px;}
+    .library-page .order-btn {margin-bottom: 0;}
+
+         /*------- Courses-page--------*/
+	.courses-page-title h1 {
+	    font-size: 33px;
+	    margin-bottom: 35px;}
+	.courses-page .teachers-slide-inner { padding: 12px 95px 80px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 10px;
+	    padding-right: 10px;}
+	.courses-page .seo-text p {margin-bottom: 15px;}
+
+
+         /*------- Registr page--------*/
+	.registr-page #tabs ul.link-list li.ui-tabs-active, .registr-page #tabs ul.link-list li {
+	    -ms-flex-preferred-size: 42%;
+	    flex-basis: 42%;}
+	.registr-page .filter-block {
+	    padding-left: 0;
+	    padding-right: 0;}
+
+
+	         /*------- Schedule page--------*/
+	.schedule-courses-item-info {
+	    height: 190px;
+	    margin: 0 auto;
+	    top: 11%;
+	    margin-top: -100px;
+	    vertical-align: middle;
+	    transform: none;
+	    position: absolute;
+	    width: 253px;
+	    display: none;
+	    z-index: 10;
+	    bottom: 40px;
+	    left: 167%;
+	    transform: translateX(-50%);}
+	.schedule-page .courses-teachers span {
+	    font-size: 13px;
+	    margin-right: 5px;}
+	.schedule-page .courses-teachers div {
+	    font-size: 14px;
+	    letter-spacing: 0.38px;
+	    margin-bottom: 7px;}
+	.schedule-page .courses-slide { padding: 14px 7px 17px;}
+	.schedule-page .courses-text {
+	    font-size: 13px;
+	    line-height: 16px;
+	    margin-bottom: 8px;}
+	.schedule-page .courses-text {
+	    font-size: 13px;
+	    line-height: 16px;
+	    margin-bottom: 8px;}
+	.schedule-page .courses-length img {
+    	margin-right: 3px;
+    	max-width: 20px;}
+	.schedule-page .courses-length span {
+	    font-size: 14px;
+	    line-height: 16px;}
+	.schedule-page .courses-price {
+	    font-size: 14px;
+	    margin-bottom: 15px;
+	    line-height: 17px;}
+	.schedule-page .courses-title {
+	    font-size: 17px;
+	    line-height: 18px;
+	    margin-bottom: 7px;}
+
+    .schedule-courses-item-info {
+        height: 330px;
+        margin: 0 auto;
+        top: 11%;
+        margin-top: -100px;
+        vertical-align: middle;
+        transform: none;
+        position: absolute;
+        width: 326px;
+        display: none;
+        z-index: 10;
+        bottom: 40px;
+        left: 219%;
+        transform: translateX(-50%);}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 290px;
+        height: 283px;
+        top: 9%;}
+    .schedule-page .color-items{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: start;
+            -ms-flex-align: start;
+                align-items: flex-start;
+        width: 60%;
+        margin-left: 30%;}
+    .schedule-page .courses-filter span {
+        margin-right: 0;
+        display: block;
+        width: 100%;
+        margin: 0 auto 10px;
+        text-align: center;}
+    .courses-filter {margin-top: 10px;}
+    .courses-filter {
+        font-size: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;}
+    .schedule-page .schedule-bar {
+        height: 40px;
+        padding-left: 20px;
+        padding-right: 20px;}
+    .schedule-bar .next-month,
+    .schedule-bar .next-year,
+    .schedule-bar .prev-year,
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-month{
+        font-size: 15px; letter-spacing: 0;}
+    .schedule-bar .next-year {margin-left: 15px;}
+    .schedule-bar .prev-year {margin-right: 15px;}
+    .schedule-bar .next-month {margin-left: 5px;}
+    .sidebar .subscribe {
+        padding: 15px 10px 30px;
+        width: 91%;}
+    .big-image-slider .slick-dots{
+        bottom: 6px;}
+    .big-image-title {
+        font-size: 23px;
+        line-height: 24px;
+        margin-bottom: 8px;}
+
+
+}
+
+
+@media (max-width: 430px){
+    .schedule-courses-item-info {
+        height: 330px;
+        margin: 0 auto;
+        margin-top: -100px;
+        display: none;
+        z-index: 10;
+        position: fixed;
+        top: 40%;
+        width: 272px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        transform: none;}
+    .schedule-page .cell {
+        height: 250px;
+        width: 14.28%;}
+    .schedule-courses-item {
+        margin-bottom: 7px;
+        word-wrap: break-word;
+        font-size: 10px;
+        line-height: 13px;}
+    .schedule-page .day-of-week {
+        height: 60px;
+        font-size: 10px;}
+    .schedule-page .container {
+        overflow-x: hidden;     width: 100%;}
+    .schedule-table.show {
+        position: relative;
+        margin-right: 0;
+        margin-left: 0;
+        overflow: hidden;
+          width: 100%;}
+    .contact-page h1 {
+        font-size: 28px;}
+    .contact-title{font-size: 20px;}
+    .contact-page .contact-adr { margin-bottom: 20px;}
+    .contact-page .contact-mail {margin-bottom: 25px;}
+    #maps > ul li {
+        margin-bottom: 10px;}
+    .contact-page h3 {font-size: 21px;}
+    .row-tr-place p {
+        font-size: 16px;
+        padding: 9px 0;}
+    .all-courses-menu {
+        width: 423px;
+        padding: 18px 15px;
+        left: -5px;}
+    .filter-course-profs {
+        margin-bottom: 10px;}
+    .schedule-page .filter-result h2 {
+        width: 100%;
+        text-align: center;
+        float: none;}
+    .schedule-page .filter-result .go-back {
+        text-align: center;
+        margin: 0 auto 20px;
+        float: none;
+        position: relative;}
+    .schedule-page .filter-result .filter-item:first-child {
+        margin-top: 0;}
+
+
+
+
+
+
+
+
+}
+@media (max-width: 420px){
+         /*------- Home--------*/
+    .big-image-text {
+        font-size: 14px;
+        margin-bottom: 10px;
+        line-height: 20px;}
+    .big-image-title {
+        font-size: 24px;
+        line-height: 23px;
+        margin-bottom: 8px;}
+    .big-image-button .btn {
+        height: auto;
+        padding: 7px 9px;
+        margin-right: 10px;
+        margin-bottom: 3px;}
+    .professor-img img {
+        max-width: 245px;
+        margin: 0 auto;}
+    .professor-desc {
+        width: 350px;
+        height: auto;
+        padding: 5px 5px;
+        width: 246px;
+        margin: -84px auto 20px;}
+    .professor-bio {
+        font-size: 14px;}
+    .study-text li {
+        margin-bottom: 8px;}
+    .practice-slider {
+        padding-left: 15px;}
+    .courses-slider .arrow.next-arrow {right: 30%;}
+    .courses-slider .arrow.prev-arrow {left: 30%;}
+    .teachers-slider .arrow.next-arrow {right: 23%;}
+    .teachers-slider .arrow.prev-arrow {left: 23%;}
+    .reviews-slider .arrow.next-arrow {right: 28%;}
+    .reviews-slider .arrow.prev-arrow{left: 28%;}
+    .video-slider .arrow.next-arrow {right: 30%;}
+    .video-slider .arrow.prev-arrow {left: 30%;}
+    .video {
+        margin-right: 0;
+        margin-left: 2px;}
+    .video-block h2 {
+        margin-bottom: 20px;
+        font-size: 24px;}
+    .form-block-form {
+        padding-left: 5px;
+        padding-right: 5px;}
+    .form-block-form input[type="submit"] {
+        height: 40px;
+        font-size: 15px;
+        line-height: 40px;}
+    .form-block-form input[type="email"] {
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        padding-left: 17px;
+        padding-right: 17px;}
+    .footer {padding: 35px 15px;}
+    .about, .study {
+        padding-left: 15px;
+        padding-right: 15px;}
+    #tabs ul.link-list li {
+        padding-left: 20px;
+        padding-right: 20px;
+        height: auto;
+        margin: 2px 23px;}
+
+         /*------- About--------*/
+    .sidebar-menu ul a {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        line-height: 21px;}
+    .about-page h1 {font-size: 34px;}
+    .insta h2 {
+        font-size: 27px;
+        line-height: 29px;}
+
+
+         /*------- Teachers page--------*/
+    .teachers-page .teachers-slide-inner {padding: 18px 55px 80px;}
+
+
+        /*------- Video--------*/
+    .videos-page h1{font-size: 30px;}
+
+
+        /*------- Review--------*/
+    .review-inner-video span {line-height: 45px;}
+    .review-inner-name {
+        font-size: 17px;
+        line-height: 45px;}
+    .review-inner-video img {max-width: 50px;}
+    .reviews-slide {padding: 25px 15px;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-page .teacher-photo img {
+        max-width: 190px;
+        margin: 0 auto;
+        margin-top: 20px;}
+    .teacher-btn-call {
+        font-size: 15px;
+        margin-right: 10px;}
+    .teacher-btn-review{font-size: 15px;}
+    .teacher-page .teacher-bio {
+        padding-top: 25px;
+        padding-left: 20px;
+        padding-right: 20px;}
+
+         /*------- Partners--------*/
+
+        /*------- Медиа-центр --------*/
+    .photos-page .photos-title {font-size: 15px;}
+
+
+
+        /*------- Photos-inner --------*/
+    .new-page .arrow.prev-arrow {left: 23%;}
+    .new-page .arrow.next-arrow {right: 23%;}
+    .photo-nav-slider {padding-right: 25px;}
+    .new-page .arrow.prev-arrow img,
+    .new-page .arrow.next-arrow img{max-width: 85%;}
+    .new-page h1 {font-size: 26px;}
+    .recent-news {padding: 10px 5px 0;}
+    .new-page .photos-item {margin-bottom: 15px; width: 90%;}
+
+         /*------- New --------*/
+    .new-page .news-item {width: 90%; margin-bottom: 20px;}
+
+         /*------- News --------*/
+    .news-page .news h1{font-size: 30px;}
+    .news-page .news .news-item {width: 90%; margin-bottom: 10px;}
+
+         /*------- Library --------*/
+    .lib-item {width: 76%;}
+    .library-page .news .content .pagination {width: 95%;}
+
+         /*------- Library item--------*/
+    .lib-meta .col-md-4 img {max-width: 68%;}
+    .library-page .library-item .content h1 {
+        font-size: 27px;
+        text-align: center;
+        line-height: 28px;}
+    .library-page .library-item .lib-price {font-size: 24px;}
+    .library-page .view-btn, .library-page .order-btn {
+        line-height: 15px;
+        padding: 10px 18px;
+        font-size: 15px;}
+
+         /*------- Courses-page--------*/
+	.reviews-photo img {max-width: 100px;}
+	.courses-page .photo-last {padding-bottom: 25px;}
+	.course-price .container {
+	    padding-bottom: 25px;}
+	.courses-page .course-price-item {width: 92%;     padding: 15px 15px 25px;}
+	.courses-page .teachers-slide-inner {padding: 12px 76px 80px;}
+	.course-teachers h2 {
+		font-size: 29px;
+	    padding-bottom: 15px;
+	    margin-bottom: 20px;}
+	.courses-page .study-steps {padding: 50px 30px 35px;}
+	.courses-page .course-nabor {
+	    font-size: 30px;
+	    text-align: center;}
+	.courses-page .course-nabor span {font-size: 60px;}
+	.courses-page .course-time {
+	    margin-left: 15px;
+	    margin-right: 3px;}
+	.course-date {
+	    font-size: 16px;
+	    line-height: 28px;
+	    margin-left: 5px;}
+	.courses-page-title h1 {
+	    font-size: 32px;
+	    margin-bottom: 30px;
+	    letter-spacing: 1px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list {padding-left: 7px;}
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 6px;
+	    padding-right: 6px;}
+	.courses-page .courses h2 {
+	    margin-bottom: 20px;
+	    margin-top: -15px;}
+	.courses-page .courses .courses-slide { padding: 20px 12px 20px;}
+	.courses-page .seo-block {
+	    padding-top: 30px;}
+	.courses-page .seo-block h2 {
+	    font-size: 27px;
+	    padding-bottom: 5px;
+	    margin-bottom: 13px;
+	    border-bottom: none;
+	    line-height: 32px;}
+
+
+         /*------- Registr page--------*/
+	.registr-page #tabs ul.link-list li.ui-tabs-active, .registr-page #tabs ul.link-list li {
+	    -ms-flex-preferred-size: 47%;
+	    flex-basis: 47%;}
+	.registr-page .registr-block .pagination {
+	    padding-left: 12px;
+	    padding-right: 12px;}
+	.registr-page .content h1 {
+	    font-size: 32px;
+	    margin-bottom: 20px;
+	    padding-bottom: 9px;
+	    margin-top: 20px;}
+	.registr-page .show-more {margin: 34px auto 5px;}
+	.registr-page .registr-block .pagination {margin-bottom: 0;}
+
+	         /*------- Schedule page--------*/
+	.schedule-page .cell {height: 250px;}
+	.schedule-page .day-of-week { height: 60px;}
+	.schedule-bar {
+	    padding-left: 15px;
+	    padding-right: 15px;}
+	.schedule-bar .prev-year {margin-right: 10px;}
+	.schedule-bar .next-year {margin-left: 10px;}
+	.schedule-bar .curr-month,
+	.schedule-bar .prev-month,
+	.schedule-bar .next-month,
+	.schedule-bar .next-year,
+	.schedule-bar .prev-year{font-size: 15px}
+	.schedule-bar img{max-width: 7px;}
+	.schedule-bar .next-year,
+	.schedule-bar .prev-year {line-height: 40px;}
+
+
+    .schedule-courses-item-info {
+        height: 330px;
+        margin: 0 auto;
+        margin-top: -100px;
+        display: none;
+        z-index: 10;
+        position: fixed;
+        top: 40%;
+        width: 272px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        transform: none;}
+    .schedule-page .cell {
+        height: 250px;
+        width: 14.28%;}
+    .schedule-courses-item {
+        margin-bottom: 7px;
+        word-wrap: break-word;
+        font-size: 10px;
+        line-height: 13px;}
+    .schedule-page .day-of-week {
+        height: 60px;
+        font-size: 10px;}
+    .schedule-page .container {
+        overflow-x: hidden;     width: 100%;}
+    .schedule-table.show {
+        position: relative;
+        margin-right: 0;
+        margin-left: 0;
+        overflow: hidden;
+          width: 100%;}
+    .contact-info, .contact-map {
+        padding: 10px 23px;}
+    .all-courses-menu .col-xs-6 {
+        width: 100%;
+        padding-right: 10px;
+        padding-left: 10px;}
+    .all-courses-menu {
+        width: 380px;
+        padding: 18px 15px;
+        left: -5px;}
+    .all-courses-menu .courses-group {
+        margin-bottom: 10px;
+        text-align: center;}
+
+}
+@media (max-width: 410px){
+    .schedule-bar .next-month,
+    .schedule-bar .next-year,
+    .schedule-bar .prev-year,
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-month{
+        font-size: 14px; letter-spacing: 0; line-height: 40px;}
+    .schedule-bar .next-year {margin-left: 8px;}
+    .schedule-bar .prev-year {margin-right: 8px;}
+    .schedule-bar .next-month {margin-left: 3px;}
+    .schedule-page .schedule-bar {
+        height: 40px;
+        padding-left: 9px;
+        padding-right: 9px;}
+    .all-courses-menu {
+        width: 370px;
+        padding: 18px 15px;
+        left: -5px;}
+
+}
+@media (max-width: 380px){
+         /*------- Home--------*/
+    .big-image-title {
+        font-size: 22px;
+        line-height: 19px;
+        text-align: center;
+        margin-bottom: 8px;}
+    .big-image-text {
+        font-size: 13.6px;
+        margin-bottom: 10px;
+        line-height: 19px;
+        text-align: center;}
+    .big-image-button .btn a {
+        line-height: 1;
+        font-size: 12px;}
+    .big-image-button .btn {
+        height: auto;
+        padding: 7px 7px;
+        margin-right: 4px;
+        margin-bottom: 3px;}
+    .logo img {
+        max-width: 85px;}
+    .about-inner {
+        padding-bottom: 50px;
+        background-size: 161%;
+        padding-top: 20px;
+        background-position: center;}
+    .advantages-list{padding-left: 15px;}
+    .study h2 {
+        border-bottom: none;
+        width: 95%;
+        font-size: 28px;
+        margin-bottom: 33px;}
+    .about-school .arrow.next-arrow {
+        right: 31%;}
+    .about-school .arrow.prev-arrow {
+        left: 31%;}
+    .about-school-text {
+        font-size: 16px;
+        padding: 40px 30px;
+        text-align: center;
+        line-height: 26px;
+        margin-left: 0;}
+    .practice-slider {
+        padding-left: 14px;
+        padding-right: 5px;}
+    .practice-dop, .practice-date {
+        margin-bottom: 15px;}
+    .practice-date {
+        font-size: 18px;}
+    .practice-slide{text-align: center;}
+    .practice-dop {
+        width: 165px;
+        height: 30px;
+        font-size: 15px;
+        text-align: center;
+        line-height: 30px;}
+    #tabs ul.link-list li {
+        padding-left: 20px;
+        padding-right: 20px;
+        height: auto;
+        margin: 2px 16px;}
+    .courses h2 {margin-bottom: 30px;}
+    .courses {
+        padding-top: 55px;
+        padding-bottom: 40px;}
+    .teachers-slide-inner {
+        padding: 34px 65px 80px;}
+    .footer-logo {
+        width: 22%;
+        padding: 0;
+        padding-top: 10px;}
+    .menu-footer.menu-left, .menu-footer.menu-right {
+        text-align: center;
+        width: 39%;}
+    .menu-footer li a {
+        padding-right: 7px;
+        padding-top: 0;
+        padding-left: 4px;
+        padding-bottom: 0;
+        line-height: 22px;}
+    .menu-footer {
+        margin-bottom: 25px;}
+
+         /*------- About--------*/
+    .about-page .content {
+        width: 100%;
+        padding-left: 14px;
+        padding-right: 12px;
+        margin: 0 auto;}
+    .about-page .insta-inner img {
+        width: 100%;
+        max-width: 270px;}
+
+         /*------- Teachers page--------*/
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 55px 80px;}
+    .teachers-page h1 {
+        margin-bottom: 25px;
+        font-size: 29px;}
+
+        /*------- Video--------*/
+    .videos-title {
+        font-size: 15px;}
+    .videos-page h1 {
+        font-size: 28px;}
+
+        /*------- Review--------*/
+    .review-inner-video img {
+        margin-right: 0;}
+    .review-page .content p {
+        line-height: 23px;}
+    .reviews-text {
+        font-size: 14px;
+        line-height: 22px;}
+    .reviews-name {
+        font-size: 18px;
+        margin-bottom: 12px;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-btn-call {font-size: 14px;}
+    .teacher-btn-review{font-size: 14px;}
+    .teacher-page .teacher-courses {
+        padding-top: 40px;
+        padding-bottom: 25px;}
+
+         /*------- Partners--------*/
+
+        /*------- Медиа-центр --------*/
+    .photos-page .pagination {
+        padding-left: 5px;
+        padding-right: 5px;
+        display: inline-block;}
+    .photos-page .pagination span,
+    .photos-page .pagination a {
+        padding-left: 5px;
+        padding-right: 5px;}
+    .photos-page h1 {
+        font-size: 30px;
+        margin-bottom: 25px;
+        margin-top: 20px;}
+    .photos-page .photos-item {
+        width: 90%;}
+
+        /*------- Photos-inner --------*/
+    .photo-nav-slider {padding-right: 0;}
+    .new-page .arrow.prev-arrow img, .new-page .arrow.next-arrow img {
+        max-width: 95%;}
+    .new-page .photo-nav-slider .arrow.prev-arrow img,
+    .new-page .photo-nav-slider .arrow.next-arrow img {
+        max-width: 0;}
+    .new-page .photos-item {margin-bottom: 15px; width: 90%;}
+
+         /*------- New --------*/
+    .new-page .news-info {padding: 15px;}
+
+         /*------- News --------*/
+    .news-page .news .pagination {
+        padding-left: 5px;
+        padding-right: 5px;
+        float: none;
+        margin-bottom: 0;
+        width: 100%;
+        display: inline-block;}
+
+
+         /*------- Library --------*/
+
+         /*------- Library item--------*/
+    .library-page .library-item .lib-author {
+        float: none;
+        margin-bottom: 10px;}
+    .library-page .library-item .lib-price {
+        font-size: 24px;
+        margin-bottom: 15px;
+        float: none;}
+
+         /*------- Courses-page--------*/
+	.courses-page .course-time {
+	    margin-left: 10px;
+	    margin-right: 10px;
+	    line-height: 28px;}
+	.course-date {
+	    font-size: 16px;
+	    line-height: 28px;
+	    margin-left: 5px;
+	    margin-right: 2px;}
+	.course-type {margin-right: 105px;}
+	.courses-page .course-about,
+	.course-text p {
+	    margin-bottom: 20px;
+	    font-size: 14px!important;
+	    line-height: 25px!important;}
+
+	.about-title, .about-school-text h2,
+	h2, .practice-slide h2, .courses h2,
+	.teachers h2, .reviews h2, .video-block h2,
+	.study h2, .advantages h2, .insta h2, .knowledge h2,
+	.study-steps h2, .course-teachers h2,
+	.course-price h2, .photo-last h2, .teacher-courses h2 {
+	    font-size: 28px;
+	    line-height: 32px;}
+	.knowledge h2 {
+	    margin-bottom: 25px;}
+	.metavionika-text,
+	.knowledge li {
+	    font-size: 15px;
+	    line-height: 25px;}
+	.courses-page .knowledge {
+	    padding-bottom: 25px;}
+	.course-teachers h2 {
+	    font-size: 27px;
+	    padding-bottom: 15px;
+	    margin-bottom: 15px;}
+	.courses-page .teachers-slide-inner {padding: 10px 65px 75px;}
+	.courses-page .teachers-slide-bg img {left: 51%;}
+	.course-price {padding-top: 45px;}
+	.courses-slider-page .courses-slide {
+	    margin: 0 auto 20px;
+	    width: 98%;
+	    max-width: 320px;
+	    padding: 20px 11px 19px;}
+	.courses-teachers span {
+	    font-size: 14px;
+	    margin-right: 5px;}
+	.courses-title {
+	    font-size: 18px;
+	    margin-bottom: 8px;}
+	.courses-teachers {
+   		 margin-bottom: 15px;}
+
+         /*------- Courses-page all--------*/
+
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 6px;
+	    padding-right: 6px;
+		padding: 9px 3px;
+	    margin: 0 40px;}
+	.courses-page .courses #tabs ul.link-list li a {
+	    height: auto;
+	    line-height: 1;
+	    margin: 0;
+	    padding: 4px 0;}
+	.courses-page .courses #tabs ul.link-list {
+		-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	    -webkit-box-align: center;
+	        -ms-flex-align: center;
+	            align-items: center;}
+	.courses-page .seo-block h2 {font-size: 23px;}
+
+         /*------- Registr page--------*/
+	.registr-page .registr-block .pagination span,
+	.registr-page .registr-block .pagination a {
+	    padding-left: 4px;
+	    padding-right: 4px;}
+	.registr-page .registr-spec-row {
+	    float: none;
+	    width: 100%;
+	    line-height: 35px;
+	    text-align: center;}
+	.registr-page .registr-spec-photo {
+	    float: none;
+	    margin-right: 0;}
+	.registr-spec-photo img{
+	    display: block;
+	    max-width: 100%;
+	    margin: 0 auto;
+	    max-width: 73px;}
+	.registr-page .registr-spec {
+	    width: 100%;
+	    padding: 15px 8px;}
+	.registr-page .registr-spec-name {
+	    margin-right: 0;
+	    line-height: 23px;
+	    font-size: 14.8px;
+	    width: 100%;
+	    text-align: center;}
+	.registr-page #tabs ul.link-list li.ui-tabs-active, .registr-page #tabs ul.link-list li {
+	    -ms-flex-preferred-size: 55%;
+	    flex-basis: 55%;}
+	.registr-page .registr-block {
+	    padding-left: 0;
+	    padding-right: 5px;}
+	.filter-block {
+	    margin-top: 17px;
+	    margin-bottom: 12px;}
+
+
+	         /*------- Schedule page--------*/
+
+    .schedule-courses-item-info {
+        height: 330px;
+        margin: 0 auto;
+        margin-top: -100px;
+        display: none;
+        z-index: 10;
+        position: fixed;
+        top: 40%;
+        width: 206px;
+        bottom: 0;
+        left: -25px;
+        right: 0;
+        transform: none;}
+    .schedule-page .cell {
+        height: 226px;
+        width: 14.28%;}
+    .schedule-courses-item {
+        margin-bottom: 7px;
+        word-wrap: break-word;
+        font-size: 10px;
+        line-height: 13px;}
+    .schedule-page .day-of-week {
+        height: 60px;
+        font-size: 10px;}
+    .schedule-page .container {
+        overflow-x: hidden;     width: 100%;}
+    .schedule-table.show {
+        position: relative;
+        margin-right: 0;
+        margin-left: 0;
+        overflow: hidden;
+          width: 100%;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 258px;
+        height: 283px;
+        top: 9%;}
+    .all-courses-menu {
+        width: 340px;
+        padding: 18px 15px;
+        left: -5px;}
+    .schedule-page .filter-result h2 {
+        line-height: 25px;
+        font-size: 22px;}
+    .schedule-bar .prev-month {
+        margin-right: 10px;}
+    .schedule-bar .next-month,
+    .schedule-bar .next-year,
+    .schedule-bar .prev-year,
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-month {
+        font-size: 13px;
+        letter-spacing: 0;
+        line-height: 40px;}
+    .schedule-bar .next-year {
+        margin-left: 5px;}
+    .schedule-bar .prev-year {
+        margin-right: 5px;}
+    .schedule-page .color-items {
+        width: 60%;
+        margin-left: 25%;}
+
+
+
+
+
+}
+@media (max-width: 350px){
+         /*------- Home--------*/
+    .big-image-bg img {
+        width: 144%;
+        height: 211px;
+        max-width: 150%;}
+    .big-image-button .btn {
+        height: auto;
+        padding: 5px 5px;
+        margin-right: 3px;
+        margin-bottom: 3px;}
+    .big-image-button .btn a {
+        line-height: 1;
+        font-size: 11.3px;}
+    .big-image-title {
+        font-size: 20px;
+        line-height: 18px;
+        text-align: center;
+        margin-bottom: 8px;}
+    .big-image-text {
+        font-size: 12.2px;
+        margin-bottom: 10px;
+        line-height: 18px;
+        text-align: center;}
+    .study h2 {
+        border-bottom: none;
+        width: 100%;
+        font-size: 27px;
+        margin-bottom: 33px;}
+    .study {
+        padding-top: 50px;
+        padding-bottom: 50px;}
+    .professor-desc {
+        width: 257px;}
+    .study-text li {
+        line-height: 21px;}
+    .about-school-text {
+        font-size: 16px;
+        padding: 40px 20px;
+        text-align: center;
+        line-height: 24px;
+        margin-left: 0;}
+    .courses-slider .arrow.next-arrow {
+        right: 25%;}
+    .courses-slider .arrow.prev-arrow {
+        left: 25%;}
+    .courses-slide {
+        height: auto;
+        width: 98%;
+        margin: 0 auto;
+        padding: 20px 18px 19px;}
+    .courses-text {
+        font-size: 15px;
+        line-height: 20px;}
+
+
+        /*------- About--------*/
+    .about-page h1 {
+        font-size: 30px;
+        margin-bottom: 25px;}
+
+         /*------- Teachers page--------*/
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 18px 80px;}
+    .teachers-page h1 {
+        margin-bottom: 25px;
+        font-size: 29px;}
+
+        /*------- Video--------*/
+    .videos-item {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 25px;}
+
+
+        /*------- Review--------*/
+    .review-inner-meta {
+        padding: 12px 5px 7px;}
+    .review-inner-name {
+        font-size: 16px;
+        line-height: 45px;}
+    .review-inner-text {
+        padding-left: 12px;
+        padding-right: 12px;}
+    .reviews-slide {
+        width: 96%;}
+    .reviews-name {
+        font-size: 17px;
+        margin-bottom: 9px;}
+
+    .reviews-page .reviews .reviews-slide {
+        width: 100%;}
+
+
+         /*------- Teacher alogne page--------*/
+    .teacher-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;}
+    .teacher-page .teacher-btn-call {
+        margin-bottom: 15px;}
+    .teacher-courses h2 {
+        font-size: 25px;
+        line-height: 28px;}
+
+        /*------- Медиа-центр --------*/
+    .photos-date{font-size: 15px;}
+    .photos-page .photos-item {
+        width: 95%;}
+
+
+
+        /*------- Photos-inner --------*/
+    .new-page .new-date {margin-top: 15px;}
+
+        /*------- New --------*/
+    .new-page .recent-news {padding: 5px 4px 0 7px;}
+ 
+         /*------- News --------*/
+    .news .pagination span,
+    .news .pagination a {
+        padding-left: 4px;
+        padding-right: 4px;}
+    .news-page .news .pagination {
+        padding-left: 3px;
+        padding-right: 3px;}
+    .news-page .news h1 {font-size: 28px;}
+
+         /*------- Library --------*/
+    .lib-item {width: 91%;}
+    .library-page .news .content .media-cat a {
+        padding-left: 15px;
+        padding-right: 15px;}
+
+         /*------- Library item--------*/
+    .library-page .library-item .content h1 {
+        font-size: 26px;
+        text-align: center;
+        line-height: 27px;
+        letter-spacing: normal;}
+
+         /*------- Courses-page--------*/
+	.courses-page .video-block h2 {
+    	font-size: 24px;
+    	padding-bottom: 12px;
+    	margin-bottom: 12px;}
+	.courses-page .form-block h2:before {
+    	height: 3px;
+    	bottom: 4px;}
+	.courses-page .form-block-text {
+    	margin-bottom: 20px;
+    	font-size: 15px;
+    	line-height: 22px;}
+	.courses-page .course-video-block .form-block-wrap {
+    	padding-left: 4px;}
+	.teacher-courses h2{font-size: 27px;}
+	h2{    border-bottom: none!important;}
+	.courses-page-title h1 {font-size: 27px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 3px;
+	    padding-right: 3px;
+	    padding: 9px 0px;
+	    margin: 0 19px;
+	    -ms-flex-preferred-size: 55%;
+	    flex-basis: 55%;}
+	.courses-page .courses .courses-slider-wrap {
+	    padding-top: 10px;}
+	.courses-page .courses .courses-title {
+	    font-size: 19px;
+	    margin-bottom: 10px;
+	    text-align: center;}
+
+    .courses-page .teachers-slide-inner {padding: 10px 45px 75px;}
+
+
+         /*------- Registr page--------*/
+	.registr-page h2.center-line {font-size: 27px;}
+	.registr-page .registr-block {padding-top: 25px;}
+	.registr-page .filter-block .filter-item {
+	    -ms-flex-preferred-size: 60%;
+	    flex-basis: 60%;}
+
+         /*------- schedule --------*/
+    .schedule-bar {
+        padding-left: 10px;
+        padding-right: 10px;}
+    .schedule-bar .prev-month {
+        margin-right: 10px;}
+    .schedule-bar .next-month {
+        margin-left: 10px;}
+    .schedule-page-title h1 {
+        font-size: 32px;
+        margin-top: 20px;
+        margin-bottom: 20px;}
+    .schedule-bar .prev-month,
+    .schedule-bar .next-year,
+    .schedule-bar .next-month,
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-year {
+        height: 38px;
+        line-height: 38px;}
+    .schedule-bar {
+        height: 38px;
+        line-height: 38px;}
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-month,
+    .schedule-bar .next-month,
+    .schedule-bar .next-year,
+    .schedule-bar .prev-year {
+        font-size: 14px;}
+    .schedule-page .container {
+        overflow-x: scroll;
+        width: 106%;}
+    .schedule-table, .schedule-table.show{
+        position: relative;
+        margin-right: 0;
+        margin-left: 0;
+        overflow: scroll;
+        width: 113%;}
+    .schedule-courses-item {padding: 4px 2px;}
+    .name-menu-all{display: none;}
+    .all-courses a{font-size: 0;}
+    .schedule-page .color-items { margin-left: 20%;}
+    .all-courses-menu {
+        width: 310px;
+        padding: 18px 15px;
+        left: -5px;}
+    .filter-result .filter-course-title {
+        width: 48%;
+        float: left;
+        margin-bottom: 15px;}
+    .filter-result .filter-course-profs {
+        font-size: 0;
+        width: 52%;
+        float: right;
+        text-align: left;}
+    .schedule-page .filter-result .filter-item {
+        padding: 25px 23px 20px 11px;}
+    .filter-result .filter-course-title {
+        width: 99%;
+        text-align: center;
+        float: none;
+        margin-bottom: 15px;}
+    .filter-result .filter-course-profs {
+        font-size: 0;
+        width: 100%;
+        float: right;
+        text-align: center;}
+    .schedule-page .filter-result h2 {
+        line-height: 25px;
+        font-size: 20px;}
+
+}
+@media (max-width: 335px){
+    .news-page .news .media-cat a {
+        padding-left: 17px;
+        padding-right: 17px;}
+
+    .videos-page .media-cat a {
+        padding-left: 16px;
+        padding-right: 16px;}
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 13px 80px;}
+    .all-courses-menu {
+        width: 280px;}
+
+}
+@media (max-width: 320px){
+         /*------- Home--------*/
+    .big-image-title {
+        font-size: 19px;
+        line-height: 18px;
+        text-align: center;
+        margin-bottom: 5px;}
+    .big-image-text {
+        font-size: 12.2px;
+        margin-bottom: 3px;
+        line-height: 15px;
+        text-align: center;}
+    .big-image-inner {
+        padding-left: 3%;
+        text-align: center;}
+    .big-image-bg img {
+        width: 166%;
+        height: 211px;
+        max-width: 150%;}
+    .about, .study {
+        padding-left: 1px;
+        padding-right: 3px;}
+    .advantages-list {
+        padding-left: 5px;}
+    .advantages-item {
+        margin-bottom: 12px;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 19px;}
+    .study h2 {
+        border-bottom: none;
+        width: 100%;
+        font-size: 24px;
+        margin-bottom: 33px;}
+    .professor-desc {
+        width: 250px;}
+    .about-school .arrow.next-arrow {
+        right: 28%;}
+    .about-school .arrow.prev-arrow {
+        left: 28%;}
+    .courses-slide {
+        height: auto;
+        width: 98%;
+        margin: 0 auto;
+        padding: 20px 14px 19px;}
+    .courses-price {
+        font-size: 13px;}
+    .courses-length span {
+        font-size: 14px;}
+    .teachers-slide-bg img {
+        max-width: none;
+        width: 290px;
+        left: 50%;
+        transform: translateX(-48%);}
+    .teachers-slide-inner {
+        padding: 34px 40px 80px;}
+    .teachers-slider .arrow.next-arrow {
+        right: 18%;}
+    .teachers-slider .arrow.prev-arrow {
+        left: 18%;}
+    .reviews-slide {
+        padding: 21px 15px;}
+    .reviews-slider .arrow.next-arrow {
+        right: 22%;}
+    .reviews-slider .arrow.prev-arrow {
+        left: 28%;}
+    .form-block {
+        padding: 35px 15px;}
+    .menu-footer.menu-right {
+        padding-right: 0;}
+    .menu-footer.menu-left, .menu-footer.menu-right {
+        text-align: center;
+        width: 100%;}
+    .footer-logo {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 15px;
+        padding-top: 10px;}
+    .footer-logo img {
+        display: block;
+        max-width: 100%;
+        margin: 0 auto;}
+    .menu-footer.menu-left{margin-bottom: 5px;}
+    .menu-footer.menu-right{margin-top: 5px;}
+
+        /*------- About--------*/
+    .insta h2 {
+        font-size: 25px;
+        line-height: 27px;}
+    .about-page .insta-inner img {
+        width: 100%;
+        max-width: 90%;}
+
+
+        /*------- Video--------*/
+    .videos-page .pagination {
+        padding-left: 3px;
+        padding-right: 3px;}
+    .videos-page .pagination span, .videos-page .pagination a {
+        padding-left: 4px;
+        padding-right: 4px;}
+
+
+        /*------- Review--------*/
+    .review-inner-meta{
+    padding: 12px 5px 7px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;}
+    .reviews {
+        padding-bottom: 10px;}
+    .reviews-page .reviews .reviews-slide {
+        padding: 10px;}
+    .reviews-page .reviews .content {
+        padding-left: 0;
+        padding-right: 0;}
+
+         /*------- Teacher alogne page--------*/
+    .teacher-page h1 {
+        margin-bottom: 23px;
+        font-size: 25px;}
+    .teacher-page .reviews-slider .arrow.prev-arrow {
+        left: 22%;}
+    .teacher-page .reviews-slider .arrow.next-arrow {
+        right: 22%;}
+
+
+         /*------- Partners--------*/
+    .course-video-block .form-block {
+        padding: 50px 5px;}
+
+
+        /*------- Медиа-центр --------*/
+    .photos-page h1 {
+        font-size: 28px;
+        margin-bottom: 25px;
+        margin-top: 20px;}
+    .photos-page .photos-item {
+        width: 95%;}
+    .photos-page .pagination span, .photos-page .pagination a {
+        padding-left: 2px;
+        padding-right: 2px;}
+    .photos-page .pagination {
+        padding-left: 2px;
+        padding-right: 2px;
+        float: none;
+        margin-bottom: 0;
+        display: inline-block;}
+        /*------- Photos-inner --------*/
+    .new-page .arrow.next-arrow {right: 18%;}
+    .new-page .arrow.prev-arrow {left: 18%;}
+    .photo-nav-slider{display: none;}
+    .new-page h1 {
+        font-size: 25px;
+        line-height: 27px;}
+    .photos-title {font-size: 15px;}
+    .photos-date {font-size: 14px;}
+
+        /*------- New --------*/
+    .new-page .news-item {
+        width: 95%;
+        margin-bottom: 15px;}
+
+         /*------- News --------*/
+    .news .pagination span, .news .pagination a {
+        padding-left: 3px;
+        padding-right: 3px;}
+    .news-page .news .news-item {width: 95%;}
+
+         /*------- Library --------*/
+    .library-page .news .content .pagination {
+        width: 100%;
+        padding-left: 2px;
+        padding-right: 2px;}
+    .lib-title {
+        font-size: 15px;
+        padding: 10px 10px 15px;}
+
+         /*------- Library item--------*/
+    .lib-meta .col-md-4 img {
+        max-width: 90%;}
+    .library-page .library-item .content h1 {
+        font-size: 24px;
+        text-align: center;
+        line-height: 25px;
+        letter-spacing: normal;
+        margin-bottom: 12px;}
+    .library-page .lib-meta {
+        padding-left: 8px;
+        padding-right: 8px;}
+    .library-page .view-btn, .library-page .order-btn {
+        line-height: 14px;
+        padding: 8px 18px;
+        font-size: 15px;
+        width: 175px;}
+
+         /*------- Courses-page--------*/
+
+	.courses-page .course-nabor {
+	    font-size: 26px;
+	    line-height: 32px;
+	    margin-top: 10px;
+	    text-align: center;
+	    margin-bottom: 8px;}
+	.courses-page .course-nabor span {font-size: 45px;}
+	.courses-page-title h1 {
+	    font-size: 25px;
+	    margin-bottom: 25px;}
+	.courses-page .courses-page-info {
+	    padding-left: 15px;
+	    padding-right: 12px;}
+	.courses-page .course-text {padding: 10px 0 20px;}
+	.knowledge h2 {margin-bottom: 15px;}
+	.knowledge ul {padding-left: 30px;}
+	.courses-page .study-steps {
+	    padding: 45px 20px 35px;}
+	.courses-page .teachers-slide-bg img {
+	    width: 270px;}
+	.courses-page .teachers-slide-inner {
+	    padding: 10px 25px 75px;}
+	.teachers-name { margin-bottom: 10px;}
+	.courses-page .teachers-photo {margin-bottom: 2px;}
+	.courses-page .course-price-item {
+	    width: 92%;
+	    padding: 15px 10px 25px;}
+	.courses-teachers {
+	    margin-bottom: 10px;
+	    text-align: center;}
+	.courses-teachers div {margin-bottom: 5px;}
+	.photo-last h2 {
+	    margin-bottom: 30px;
+	    font-size: 27px;}
+	.courses-page .photo-last-item {
+	    width: 95%;}
+	.photo-last-info {
+	    padding: 15px;}
+	.reviews-slide {
+	    width: 99%;}
+	.courses-page .course-video-block .form-block-form {
+	    padding-left: 3px;
+	    padding-right: 3px;}
+	.courses-page .reviews-slider .arrow.prev-arrow {left: 22%;}
+	.courses-page .reviews-slider .arrow.next-arrow {right: 22%;}
+
+    .courses-page .teachers-slide-inner {padding: 10px 25px 75px;}
+
+         /*------- Courses-page all--------*/
+	.courses-page .courses #tabs ul.link-list li {
+	    padding-left: 3px;
+	    padding-right: 3px;
+	    padding: 9px 0px;
+	    margin: 0 15px;
+	    -ms-flex-preferred-size: 75%;
+	    flex-basis: 75%;}
+	.courses-page .seo-block h2 {
+	    font-size: 21px;
+	    line-height: 25px;}
+    .courses-page .courses #tabs ul.link-list li {
+        padding-left: 3px;
+        padding-right: 3px;
+        padding: 9px 0px;
+        margin: 0 32px;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;}
+    .courses-page .courses .courses-slider-wrap {
+        padding-top: 10px;}
+    .courses-page .courses .courses-title {
+        font-size: 19px;
+        margin-bottom: 10px;
+        text-align: center;}
+    .courses-page .courses #tabs ul.link-list li a {
+        height: auto;
+        line-height: 1;
+        margin: 0;
+        padding: 4px 15px;}
+
+         /*------- registr page--------*/
+	.registr-page #tabs ul.link-list li.ui-tabs-active, .registr-page #tabs ul.link-list li {
+	    -ms-flex-preferred-size: 52%;
+	    flex-basis: 70%;}
+	.registr-page .filter-block .filter-item {
+	    -ms-flex-preferred-size: 60%;
+	    flex-basis: 75%;}
+	.registr-page .registr-spec-date {
+	    width: 100%;
+	    margin-right: 0;
+	    font-size: 14px;
+	    float: none;
+	    text-align: center;}
+	.registr-page .registr-block .pagination {
+	    padding-left: 5px;
+	    padding-right: 5px;}
+	.registr-page .registr-block .pagination span, .registr-page .registr-block .pagination a {
+	    padding-left: 3px;
+	    padding-right: 3px;}
+	.registr-page .content {
+	    padding-bottom: 15px;
+	    padding-left: 10px;
+	    padding-right: 0;}
+
+
+
+    .schedule-bar {
+        padding-left: 7px;
+        padding-right: 7px;}
+    .schedule-bar .prev-year {
+        margin-right: 5px;}
+    .schedule-bar .next-year {
+        margin-left: 5px;}
+    .schedule-bar .curr-month, .schedule-bar .prev-month,
+    .schedule-bar .next-month, .schedule-bar .next-year,
+    .schedule-bar .prev-year {
+        font-size: 13.5px;}
+    .schedule-page .courses-slide {
+        padding: 14px 5px 17px;
+        text-align: center;
+        width: 218px;
+        height: 305px;
+        top: 9%;}
+    .schedule-courses-item-info {
+        height: 280px;
+        margin: 0 auto;
+        margin-top: -100px;
+        display: none;
+        z-index: 10;
+        position: fixed;
+        top: 40%;
+        width: 183px;
+        bottom: 0;
+        left: -41px;
+        right: 0;
+        transform: none;}
+    .cell {font-size: 14px;}
+    .courses-page .teachers-slide-inner {padding: 10px 35px 75px;}
+    .course-type {
+        margin-right: 60px;}
+
+    .schedule-bar .next-month,
+    .schedule-bar .next-year,
+    .schedule-bar .prev-year,
+    .schedule-bar .curr-month,
+    .schedule-bar .prev-month{
+        font-size: 13px; letter-spacing: 0; line-height: 40px;}
+    .schedule-bar .next-year {margin-left: 8px;}
+    .schedule-bar .prev-year {margin-right: 8px;}
+    .schedule-bar .next-month {margin-left: 3px;}
+    .schedule-page .schedule-bar {
+        height: 40px;
+        padding-left: 7px;
+        padding-right: 7px;}
+
+    .all-courses-menu {
+        width: 270px;}
+    .all-courses-menu .courses-group-title {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: 2px;}
+    .filter-result .filter-course-profs span {
+        margin-left: 8px;}
+    .filter-result .filter-course-title {
+        color: #187cf2;
+        font-size: 15px;}
+.schedule-page .courses-filter select {
+    width: 70%;
+    padding-left: 13px;
+    padding-right: 14px;
+    display: block;
+    float: none;
+    margin: 0 auto 12px;
+}
+
+
+
+
+}
+@media (max-width: 320px){
+    .courses-page .teachers-slide-inner {padding: 10px 35px 75px;}
+.schedule-page .color-items {
+    margin-left: 8%;
+    width: 95%;
+}
+
+
+
+}
+@media (max-width: 300px){
+    .filter-result .filter-course-profs span a {
+        font-size: 13px;}
+}
+
+@media (max-width: 275px){
+    .videos-page .pagination span, .videos-page .pagination a {
+        padding-left: 3px;
+        padding-right: 3px;}
+    .news .pagination span, .news .pagination a {
+        padding-left: 2px;
+        padding-right: 2px;}
+    .all-courses-menu {
+        width: 230px;}
+}
+@media (max-width: 255px){
+    .videos-page .pagination span, .videos-page .pagination a {
+        padding-left: 2px;
+        padding-right: 2px;}
+    .teachers-page .teachers-slide-bg img {
+        width: 275px;}
+    .teachers-page .teachers-slide-inner {
+        padding: 18px 6px 80px;}
+    .teachers-page h1 {font-size: 25px;}
+    .all-courses-menu {
+        width: 210px;}
+
+}
+
+         /*------- Ipad --------*/
+@media only screen and (max-width: 800px) and (max-height: 400px){
+    .schedule-courses-item-info {
+        width: 218px;
+        margin: 0 auto;
+        bottom: 0;
+        top: -201%;
+        left: 33%;}
+
+
+
+
+
+}
+         /*------- Galaxy S5 --------*/
+@media only screen and (max-width: 640px) and (max-height: 360px){
+	.courses-page .teachers-slide-inner {
+	    padding: 11px 184px 80px;}
+
+
+
+}
+
+         /*------- Iphone 6 --------*/
+
+@media only screen and (max-width: 667px) and (max-height: 375px){
+    .lib-item {width: 86%;}
+
+}
+@media screen and (min-width: 667px) and (orientation: landscape){
+    .lib-item {width: 86%;}
+
+
+}
+
+
+         /*------- Iphone 5 --------*/
+@media only screen and (max-width: 568px) and (max-height: 320px){
+    .new-page .news-item {
+        width: 66%;}
+
+    .news-page .news .news-item {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 66%;}
+    .news-page .news .pagination {
+        margin-bottom: 10px;}
+    .news-page .news .news-count-bottom {
+        float: none;
+        width: auto;
+        display: inline-block;}
+	.courses-page .teachers-slide-inner {
+	    padding: 11px 159px 80px;}
+	.registr-page .registr-spec-city {margin-left: 5px;}
+    .schedule-courses-item-info {margin-top: -176px;}
+    .photos-page .news-count-bottom {
+        float: none;
+        display: inline-block;}
+
+}
+@media screen and (max-width: 568px) and (orientation: landscape){
+
+    .courses-page .teachers-slide-inner {
+        padding: 11px 159px 80px;}
+    .courses-page .teachers-slide-bg img {
+        width: 355px;}
+    .photos-page .news-count-bottom {
+        float: none;
+        display: inline-block;}
+
+
+
+}
+
+@media only screen and (max-width: 411px) and (max-height: 731px){
+    .courses-page .teachers-slide-inner {
+        padding: 12px 76px 80px;}
+
+
+}
+@media only screen and (max-width: 375px) and (max-height: 667px){
+    .courses-page .teachers-slide-bg img {
+        width: 323px;}
+
+}
+
+         /*------- Iphone 5 orientation: landscape--------*/ 
+@media only screen and (max-width: 320px) and (max-height: 568px){
+    .news-page .news .media-cat a {
+        padding-left: 14px;
+        padding-right: 14px;}
+    .lib-item {width: 86%;}
+	.courses-page .teachers-slide-inner {
+	    padding: 10px 56px 75px;}
+
+
+}
+         /*------- Iphone 6-7 --------*/
+@media only screen and (max-width: 414px) and (max-height: 736px){
+	.courses-page .teachers-slide-inner {
+	    padding: 12px 71px 80px;}
+
+
+
+
+
+}
+
+         /*------- Iphone X--------*/
+
+@media only screen and (max-width: 375px) and (max-height: 812px){
+	.courses-page .teachers-slide-inner {
+	    padding: 10px 65px 75px;}
+
+
+
+}
+
+
+
